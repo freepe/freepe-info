@@ -1,5 +1,5 @@
 # Languages
 
 * [English](en/)
-* [Russian](ru/)
-* [Ukrainian](ua/)
+* [Русский](ru/)
+* [Українська](ua/)
