@@ -35,15 +35,15 @@
 ---
 **Наши веб-сайты**
 
-> <i class=\"fa fa-university\"></i> [Сайт проекта](http://freepe.org/)
+> <i class="fa fa-university"></i> [Сайт проекта](http://freepe.org/)
 
-> [Веб-платформа](http://freepe.io/)
+> <i class="fa fa-cubes"></i> [Веб-платформа](http://freepe.io/)
  
-> [Нейронная сеть](http://freepe.net/)
+> <i class="fa fa-university"></i> [Нейронная сеть](http://freepe.net/)
 
-> [Форум сообщества](http://freepe.co/)
+> <i class="fa fa-users"></i> [Сообщество](http://freepe.co/)
 
-> [Блог](freepe.online)
+> <i class="fa fa-wordpress"></i> [Блог](freepe.online)
 
 
 
