@@ -35,7 +35,7 @@
 ---
 **Наши веб-сайты**
 
-> [Сайт проекта](http://freepe.org/)
+> <i class=\"fa fa-university\"></i> [Сайт проекта](http://freepe.org/)
 
 > [Веб-платформа](http://freepe.io/)
  
