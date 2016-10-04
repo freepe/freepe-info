@@ -3,12 +3,7 @@
         "collapsible-menu",
         "youtube",
         "responsive-iframes",
-        "language-picker",
-        "code-editor"
     ],
     "pluginsConfig": {
-        "language-picker": {
-            "grid-columns": 3
-        }
     }
 }
