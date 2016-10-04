@@ -79,6 +79,7 @@
                * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
            * [FreePe Net](freepe_net.md)
        * [FreePe Org](freepe_org.md)
+           * Web content
        * [Дополнительные материалы](dopolnitelnie_materiali2.md)
            * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
            * [Контент для рассылки](kontent_dlya_rassilki.md)
