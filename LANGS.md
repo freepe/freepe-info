@@ -5,5 +5,5 @@
 
 
 
-{% codeeditor src='tmp/book/gitbook/gitbook-plugin-language-picker/plugin.js' %}
+{% codeeditor src='../gitbook/gitbook-plugin-language-picker/plugin.js' %}
 {% endcodeeditor %}
