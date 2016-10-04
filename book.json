@@ -3,7 +3,8 @@
         "collapsible-menu",
         "youtube",
         "responsive-iframes",
-        "language-picker"
+        "language-picker",
+        "code-editor"
     ],
     "pluginsConfig": {
         "language-picker": {
