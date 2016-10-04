@@ -4,7 +4,5 @@
         "youtube",
         "responsive-iframes",
     ],
-    "pluginsConfig": {
-        []
-    }
+    "pluginsConfig": {}
 }
