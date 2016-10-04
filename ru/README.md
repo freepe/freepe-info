@@ -30,7 +30,7 @@
 
 > [Вводная презентация](https://goo.gl/bxv33W)
 
-> [Презентация проекта](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
+> [Подробная презентация](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
 
 > [Процесс разработки](https://pintask.me/board/vPsfuf2sawcaDyt6b) 
 
