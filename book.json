@@ -2,7 +2,7 @@
     "plugins": [
         "collapsible-menu",
         "youtube",
-        "responsive-iframes",
+        "responsive-iframes"
     ],
     "pluginsConfig": {}
 }
