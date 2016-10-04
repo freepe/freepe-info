@@ -73,8 +73,3 @@
 > [Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU) (схемы, картинки, тексты и другие материалы)
 
 > [Отчет](https://goo.gl/ArDg5z)  - Прогресс реализации этапов проекта и учет вкладов участников.
-
-
-
-{% codeeditor src='tmp/book/gitbook/gitbook-plugin-language-picker/plugin.js' %}
-{% endcodeeditor %}
