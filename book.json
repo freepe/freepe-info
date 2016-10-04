@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "collapsible-menu",
+        "youtube",
+        "responsive-iframes"
+    ],
+    "pluginsConfig": {}
+}
