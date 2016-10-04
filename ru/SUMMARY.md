@@ -75,6 +75,8 @@
            * [FreePe Net](freepe_net.md)
        * [FreePe Org](freepe_org.md)
            * tmep]
+       * [Web content](web_content.md)
+           * [Лендинг](lending.md)
        * [Дополнительные материалы](dopolnitelnie_materiali2.md)
            * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
            * [Контент для рассылки](kontent_dlya_rassilki.md)
