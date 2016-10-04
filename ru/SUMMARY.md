@@ -74,9 +74,9 @@
                * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
            * [FreePe Net](freepe_net.md)
        * [FreePe Org](freepe_org.md)
+           * [Web content](web_content.md)
+               * [Лендинг](lending.md)
            * tmep]
-       * [Web content](web_content.md)
-           * [Лендинг](lending.md)
        * [Дополнительные материалы](dopolnitelnie_materiali2.md)
            * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
            * [Контент для рассылки](kontent_dlya_rassilki.md)
@@ -117,6 +117,4 @@
                * [Порядок внесення змін та доповнень до статуту](poryadok_vnesennya_zmn_ta_dopovnen_do_statutu.md)
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
-           * [Web content](web_content.md)
-               * [Лендинг](lending.md)
 
