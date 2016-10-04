@@ -115,4 +115,5 @@
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
            * [Web content](web_content.md)
+               * Лендинг
 
