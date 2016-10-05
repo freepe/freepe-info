@@ -87,7 +87,7 @@
                    * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                    * [Члены сообществ](chleni_soobschestv.md)
        * [FreePe Co](freepe_co.md)
-       * FreePe Info
+       * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
            * [Технический паспорт](tehnicheskii_pasport.md)
                * [Начало работы](nachalo_raboti.md)
