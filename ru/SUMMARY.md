@@ -79,11 +79,6 @@
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
        * [Дополнительные материалы](dopolnitelnie_materiali2.md)
-           * [Контент для рассылки](kontent_dlya_rassilki.md)
-               * [Введение](vvedenie11.md)
-               * [О проекте](o_proekte.md)
-               * [Предложение](predlozhenie.md)
-               * [Сотрудничество](sotrudnichestvo.md)
            * [Контент для служебных сообщений](kontent_dlya_sluzhebnih_soobschenii.md)
                * [Приветствие](privetstvie.md)
                * [Регистрация реферала](registratsiya_referala.md)
@@ -118,6 +113,11 @@
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
        * [Промо-кампания](promo-kampaniya.md)
+           * [Контент для рассылки](kontent_dlya_rassilki.md)
+               * [Введение](vvedenie11.md)
+               * [О проекте](o_proekte.md)
+               * [Предложение](predlozhenie.md)
+               * [Сотрудничество](sotrudnichestvo.md)
            * терм
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
