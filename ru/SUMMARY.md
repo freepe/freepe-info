@@ -96,7 +96,7 @@
                * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
            * [FreePe Net](freepe_net.md)
        * [FreePe Online](freepe_online.md)
-           * Вводная статья
+           * [Вводная статья](vvodnaya_statya.md)
        * [FreePe Org](freepe_org.md)
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
