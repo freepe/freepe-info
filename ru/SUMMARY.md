@@ -76,7 +76,7 @@
        * [FreePe Org](freepe_org.md)
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
-       * FreePe Online
+       * [FreePe Online](freepe_online.md)
        * [Дополнительные материалы](dopolnitelnie_materiali2.md)
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
