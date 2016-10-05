@@ -63,10 +63,8 @@
                    * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                * [Страницы](stranitsi.md)
        * [Дополнительные материалы](dopolnitelnie_materiali1.md)
-   * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
-       * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
        * [Компоненты FreePe](informatsiya_o_freepe.md)
            * [FreePe Co](freepe_co.md)
            * FreePe Info
@@ -118,4 +116,5 @@
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
        * [Промо-кампания](promo-kampaniya.md)
+   * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
