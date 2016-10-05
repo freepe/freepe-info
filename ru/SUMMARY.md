@@ -98,6 +98,7 @@
        * [FreePe Online](freepe_online.md)
            * [Вводная статья](vvodnaya_statya.md)
        * [FreePe Org](freepe_org.md)
+           * [Лендинг](lending.md)
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
        * [TheFreePe Сom](thefreepecom_content.md)
