@@ -103,7 +103,7 @@
            * [Предложение](predlozhenie11.md)
            * [Сотрудничество](sotrudnichestvo11.md)
            * [О проекте](o_proekte1.md)
-       * [Материалы](materialy.md)
+       * [Материалы](materiali.md)
            * [Контент для FreePe IO](kontent_dlya_freepe_io.md)
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
