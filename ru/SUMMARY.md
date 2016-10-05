@@ -87,7 +87,6 @@
                    * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                    * [Члены сообществ](chleni_soobschestv.md)
                * терм
-           * ййы
        * [FreePe Co](freepe_co.md)
        * FreePe Info
        * [FreePe IO](freepe_io.md)
