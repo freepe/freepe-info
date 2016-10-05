@@ -2,6 +2,9 @@
     "links" : {
         "home": null
     },
+    "custom": {
+        "FreePe IO": "https://freepe.io"
+    },       
     "plugins": [
         "collapsible-menu",
         "youtube",
