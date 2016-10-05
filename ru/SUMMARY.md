@@ -100,7 +100,7 @@
        * [FreePe Org](freepe_org.md)
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
-       * [TheFreePe.com content](thefreepecom_content.md)
+       * [TheFreePe.com](thefreepecom_content.md)
            * [Предложение](predlozhenie11.md)
            * [Сотрудничество](sotrudnichestvo11.md)
            * [О проекте](o_proekte1.md)
