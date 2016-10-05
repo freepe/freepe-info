@@ -118,5 +118,6 @@
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
        * [Промо-кампания](promo-kampaniya.md)
+           * терм
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
