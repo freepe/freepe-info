@@ -87,6 +87,7 @@
                * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                * [Члены сообществ](chleni_soobschestv.md)
            * терм
+       * [FreePe Net](freepe_net.md)
        * [Компоненты FreePe](informatsiya_o_freepe.md)
            * [FreePe Co](freepe_co.md)
            * FreePe Info
@@ -100,7 +101,6 @@
        * [FreePe Org](freepe_org.md)
            * [Лендинг](lending.md)
            * [Веб контент](web_content.md)
-               * [Лендинг](lending.md)
        * [TheFreePe Сom](thefreepecom_content.md)
            * [Предложение](predlozhenie11.md)
            * [Сотрудничество](sotrudnichestvo11.md)
