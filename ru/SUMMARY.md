@@ -116,5 +116,5 @@
                * [Порядок внесення змін та доповнень до статуту](poryadok_vnesennya_zmn_ta_dopovnen_do_statutu.md)
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
-       * Промо-кампания
+       * [Промо-кампания](promo-kampaniya.md)
 
