@@ -79,11 +79,6 @@
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
        * [Дополнительные материалы](dopolnitelnie_materiali2.md)
-           * [Шаблоны для приглашений](shabloni_dlya_priglashenii.md)
-               * [Друзьям и знакомым](druzyam_i_znakomim.md)
-               * [Авторы проектов](avtori_proektov.md)
-               * [Руководители предприятий](rukovoditeli_predpriyatii.md)
-               * [Члены сообществ](chleni_soobschestv.md)
            * [Контент для FreePe IO](kontent_dlya_freepe_io.md)
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
@@ -118,6 +113,11 @@
                * [Новый уровень](novii_uroven.md)
                * [Вывод FPM](vivod_fpm.md)
                * [Операция обмена](operatsiya_obmena.md)
+           * [Шаблоны для приглашений](shabloni_dlya_priglashenii.md)
+               * [Друзьям и знакомым](druzyam_i_znakomim.md)
+               * [Авторы проектов](avtori_proektov.md)
+               * [Руководители предприятий](rukovoditeli_predpriyatii.md)
+               * [Члены сообществ](chleni_soobschestv.md)
            * терм
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
