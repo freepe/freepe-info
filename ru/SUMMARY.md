@@ -65,7 +65,7 @@
        * [Дополнительные материалы](dopolnitelnie_materiali1.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
-           * [Промо-кампания](promo-kampaniya.md)
+           * [Продвижение](promo-kampaniya.md)
                * [Контент для рассылки](kontent_dlya_rassilki.md)
                    * [Введение](vvedenie11.md)
                    * [О проекте](o_proekte.md)
