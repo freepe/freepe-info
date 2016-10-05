@@ -65,6 +65,7 @@
        * [Дополнительные материалы](dopolnitelnie_materiali1.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
+           * Становление
            * [Продвижение](promo-kampaniya.md)
                * [Контент для рассылки](kontent_dlya_rassilki.md)
                    * [Введение](vvedenie11.md)
@@ -86,7 +87,6 @@
                    * [Авторы проектов](avtori_proektov.md)
                    * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                    * [Члены сообществ](chleni_soobschestv.md)
-           * Становление
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
