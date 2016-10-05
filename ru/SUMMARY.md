@@ -88,6 +88,7 @@
                * [Члены сообществ](chleni_soobschestv.md)
            * терм
        * [FreePe Co](freepe_co.md)
+       * FreePe Info
        * [FreePe IO](freepe_io.md)
            * [Технический паспорт](tehnicheskii_pasport.md)
                * [Начало работы](nachalo_raboti.md)
@@ -100,10 +101,6 @@
            * [Веб контент](web_content.md)
        * [Компоненты FreePe](informatsiya_o_freepe.md)
            * FreePe Info
-           * [FreePe IO](freepe_io.md)
-               * [Технический паспорт](tehnicheskii_pasport.md)
-                   * [Начало работы](nachalo_raboti.md)
-               * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
        * [TheFreePe Сom](thefreepecom_content.md)
            * [Предложение](predlozhenie11.md)
            * [Сотрудничество](sotrudnichestvo11.md)
