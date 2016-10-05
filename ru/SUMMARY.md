@@ -76,6 +76,7 @@
        * [FreePe Org](freepe_org.md)
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
+       * FreePe Online
        * [Дополнительные материалы](dopolnitelnie_materiali2.md)
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
@@ -116,6 +117,5 @@
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
        * [Промо-кампания](promo-kampaniya.md)
-       * FreePe Online
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
