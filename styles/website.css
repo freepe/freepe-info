@@ -1,4 +1,9 @@
 /* CSS for website */
-.freepe_endpoint + p {
-  width: 25px;
+.comments-section img {
+  width: 10% !important;
+}
+
+.comments-section img + a {
+  position: relative;
+  top: -10px;
 }
