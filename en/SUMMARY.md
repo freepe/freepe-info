@@ -1,6 +1,6 @@
 # Summary
 
-* [Мир FreePe](README.md)
+* [FreePe world](README.md)
    * [Вступление](vstuplenie.md)
        * [Предисловие](predislovie.md)
        * [Зарождение](zarogdenie.md)
