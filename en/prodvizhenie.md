@@ -1,4 +1,4 @@
-# Продвижение
+# Promotion
 
 The capital required for development and release of the FreePe project will be secured through a crowdfunding campaign - FreePe Initial Coin Offering (hereinafter referred to as “ICO”). ICONOMI will issue 23500 FreePenny tokens. FreePenny tokens will be Colu-based tokens of value.
 ICO will be open to everyone between 25. 8. 2016 8:00 UTC and 29. 9. 2016 20:00 UTC. During this time, a special FreePe ICO page will be available at freepe.io where ICO participants will be able to generate user accounts. ICONOMI ICO website will guide participants thought the deposit process.
