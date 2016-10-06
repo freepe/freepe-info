@@ -1,6 +1,6 @@
 /* CSS for website */
-.freepe_endpoint + a {
-  width: 10% !important;
+.freepe_endpoint + img {
+  width: 25px !important;
 }
 
 .freepe_endpoint + img + a {
