@@ -70,6 +70,7 @@
        * [Дополнительные материалы](dopolnitelnie_materiali1.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
+           * Продвижение
        * [Компоненты FreePe](informatsiya_o_freepe.md)
            * [FreePe Co](freepe_co.md)
            * FreePe Info
