@@ -3,7 +3,7 @@
 
 
 
-![](logo.png)
+![](../images/logo.png)
 
 
 ---
