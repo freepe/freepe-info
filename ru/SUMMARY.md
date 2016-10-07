@@ -98,7 +98,7 @@
                * [Лендинг](lending-io.md)
                * [Регистрация](registratsiya-io.md)
                * [Приветствие](privetstvie-io.md)
-               * Кошелёк
+               * [Кошелёк](koshelyok-io.md)
                * Дашбоард
            * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
        * [FreePe Net](freepe_net.md)
