@@ -16,5 +16,5 @@
                * [Landing](landing-org.md)
        * [TheFreePe Сom](thefreepecom_content.md)
            * [Landing](landing_com.md)
-   * [FAQ](faq.md)
+    * [FAQ](faq.md)
 
