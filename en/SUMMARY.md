@@ -116,6 +116,7 @@
            * [Предложение](predlozhenie11.md)
            * [Сотрудничество](sotrudnichestvo11.md)
            * [О проекте](o_proekte1.md)
+           * Web content
        * [Материалы](materiali.md)
            * [Презентации проекта](prezentatsii_proekta.md)
                * [Текст презентации](tekst_prezentatsii.md)
