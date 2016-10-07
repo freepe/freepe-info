@@ -95,6 +95,12 @@
            * [Контент для FreePe IO](kontent_dlya_freepe_io.md)
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
+               * [Пользовательское соглашение](polzovatelskoe_soglashenie.md)
+               * [Лендинг](lending-io.md)
+               * [Регистрация](registratsiya-io.md)
+               * [Приветствие](privetstvie-io.md)
+               * [Кошелёк](koshelyok-io.md)
+               * Дашбоард
            * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
        * [FreePe Net](freepe_net.md)
        * [FreePe Online](freepe_online.md)
