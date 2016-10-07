@@ -95,7 +95,7 @@
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
                * [Пользовательское соглашение](polzovatelskoe_soglashenie.md)
-               * Лендинг
+               * [Лендинг](lending-io.md)
            * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
        * [FreePe Net](freepe_net.md)
        * [FreePe Online](freepe_online.md)
