@@ -99,6 +99,7 @@
                * [Регистрация](registratsiya-io.md)
                * [Приветствие](privetstvie-io.md)
                * Кошелёк
+               * Дашбоард
            * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
        * [FreePe Net](freepe_net.md)
        * [FreePe Online](freepe_online.md)
