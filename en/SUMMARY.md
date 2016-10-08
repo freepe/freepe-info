@@ -18,7 +18,7 @@
    * [FreePe Org](freepe_org.md)
        * [Web content](web_content.md)
            * [Landing](landing-org.md)
-   * [TheFreePe](thefreepecom_content.md)
+   * [TheFreePe Com](thefreepecom_content.md)
        * [Landing](landing_com.md)
            * [FAQ](faq.md)
 
