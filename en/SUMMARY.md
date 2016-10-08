@@ -12,9 +12,9 @@
            * [Registration](registration_io.md)
            * [Welcome](welcome_io.md)
            * Wallet
+   * [FreePe Net](freepe_net.md)
    * [FreePe Online](freepe_online.md)
        * [Вводная статья](vvodnaya_statya.md)
-   * [FreePe Net](freepe_net.md)
    * [FreePe Org](freepe_org.md)
        * [Web content](web_content.md)
            * [Landing](landing-org.md)
