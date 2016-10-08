@@ -16,7 +16,10 @@ My level
 My rating
 0.968
 
-Level 1, Level 2, Level 3, Level 4
+|  | Level 1 | Level 2 | Level 3 | Level 4 |
+| -- | -- | -- | -- | -- |
+| Goal | Invite 5 friends or get 20 FPN |  Invite 10 friends or get 40 FPN | Invite 15 friends or get 60 FPN |  Invite 20 friends or get 80 FPN |
+| Bounty | Get 2.5% from referrals | Get 5% from referrals | Get 7.5% from referrals | Get 10% from referrals |
 
 Private Group Channel    
 
