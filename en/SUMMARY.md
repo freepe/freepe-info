@@ -8,7 +8,7 @@
        * [Technical document](technical_document.md)
            * [Getting started](getting-started.md)
        * [Web content](web_content_io.md)
-           * landing
+           * Landing
    * [FreePe Net](freepe_net.md)
    * [FreePe Online](freepe_online.md)
        * [Вводная статья](vvodnaya_statya.md)
