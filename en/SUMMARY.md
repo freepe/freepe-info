@@ -9,6 +9,7 @@
            * [Getting started](getting-started.md)
        * [Web content](web_content_io.md)
            * [Landing](landing_io.md)
+           * Registration
    * [FreePe Net](freepe_net.md)
    * [FreePe Online](freepe_online.md)
        * [Вводная статья](vvodnaya_statya.md)
