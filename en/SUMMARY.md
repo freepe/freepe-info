@@ -11,7 +11,7 @@
            * [Landing](landing_io.md)
            * [Registration](registration_io.md)
            * [Welcome](welcome_io.md)
-           * Wallet
+           * [Wallet](wallet_io.md)
    * [FreePe Net](freepe_net.md)
    * [FreePe Online](freepe_online.md)
        * [Вводная статья](vvodnaya_statya.md)
