@@ -29,11 +29,13 @@ Hello my dear friend!
 Send
 
 
-Tell to friend:
+#####Tell to friend:
 
 http://freepe.io/ref/abcaafefwefdafdaa
 Copy
       
-News
+#####News
+
 Bogfu bought 100 FPT
+
 User "Bogfu" joined
