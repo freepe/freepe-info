@@ -10,11 +10,11 @@
        * [Web content](web_content_io.md)
            * [Landing](landing_io.md)
            * [Registration](registration_io.md)
-           * [FreePe Net](freepe_net.md)
            * [Welcome](welcome_io.md)
            * Wallet
    * [FreePe Online](freepe_online.md)
        * [Вводная статья](vvodnaya_statya.md)
+   * [FreePe Net](freepe_net.md)
    * [FreePe Org](freepe_org.md)
        * [Web content](web_content.md)
            * [Landing](landing-org.md)
