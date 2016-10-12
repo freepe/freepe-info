@@ -125,6 +125,5 @@
            * [Черновик](chernovik.md)
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
-               * фыф
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
