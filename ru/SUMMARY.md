@@ -124,5 +124,6 @@
        * [Материалы](materiali.md)
            * [Презентации проекта](prezentatsii_proekta.md)
                * [Текст презентации](tekst_prezentatsii.md)
+           * Правила пользования
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
