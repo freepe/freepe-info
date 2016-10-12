@@ -93,7 +93,6 @@
            * [Технический паспорт](tehnicheskii_pasport.md)
                * [Начало работы](nachalo_raboti.md)
            * [Контент для FreePe IO](kontent_dlya_freepe_io.md)
-               * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
                * [Пользовательское соглашение](polzovatelskoe_soglashenie.md)
                * [Лендинг](lending-io.md)
@@ -125,5 +124,6 @@
            * [Презентации проекта](prezentatsii_proekta.md)
                * [Текст презентации](tekst_prezentatsii.md)
            * [Правила пользования](pravila_polzovaniya.md)
+   * [Правила и условия](pravila_i_usloviya.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
