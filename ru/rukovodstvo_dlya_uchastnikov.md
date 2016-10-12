@@ -16,7 +16,7 @@
 Для быстрой связи с нами,а также для своевременного получения новостей и новой информации о проекте FreePe, предлагаем вам воспользоваться ссылкам на:
 
 [Сайт проекта](http://freepe.org) 
-[VK](https://vk.com/freepe_org)  
-[Facebook ](https://www.facebook.com/FreePe-project-1705439936387017)
+
+[VK](https://vk.com/freepe_org) [Facebook ](https://www.facebook.com/FreePe-project-1705439936387017)
 [Twitter](https://twitter.com/_freepe)
 [Instagram ](https://instagram.com/thefreepe)
