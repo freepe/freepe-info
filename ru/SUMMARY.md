@@ -122,9 +122,9 @@
        * [Материалы](materiali.md)
            * [Презентации проекта](prezentatsii_proekta.md)
                * [Текст презентации](tekst_prezentatsii.md)
-           * [Соглашения](soglasheniya.md)
            * [Правила и условия](pravila_i_usloviya.md)
            * [Черновик](chernovik.md)
+               * [Соглашения](soglasheniya.md)
                * фыф
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
