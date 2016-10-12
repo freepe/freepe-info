@@ -86,7 +86,7 @@
                    * [Авторы проектов](avtori_proektov.md)
                    * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                    * [Члены сообществ](chleni_soobschestv.md)
-               * Руководство для участников
+               * [Руководство для участников](rukovodstvo_dlya_uchastnikov.md)
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
