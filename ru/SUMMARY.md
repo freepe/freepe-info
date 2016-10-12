@@ -124,5 +124,6 @@
                * [Текст презентации](tekst_prezentatsii.md)
            * [Соглашения](soglasheniya.md)
            * [Правила и условия](pravila_i_usloviya.md)
+           * Черновик
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
