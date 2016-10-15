@@ -92,7 +92,7 @@
        * [FreePe IO](freepe_io.md)
            * [Технический паспорт](tehnicheskii_pasport.md)
                * [Начало работы](nachalo_raboti.md)
-           * [Контент для FreePe IO](kontent_dlya_freepe_io.md)
+           * [Веб контент](kontent_dlya_freepe_io.md)
                * [Пользовательское соглашение](polzovatelskoe_soglashenie.md)
                * [Лендинг](lending-io.md)
                * [Регистрация](registratsiya-io.md)
