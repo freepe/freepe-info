@@ -90,7 +90,7 @@
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
-           * [Веб контент](kontent_dlya_freepe_io.md)
+           * [Веб контент](web_content_io.md)
                * [Пользовательское соглашение](polzovatelskoe_soglashenie.md)
                * [Лендинг](lending-io.md)
                * [Регистрация](registratsiya-io.md)
