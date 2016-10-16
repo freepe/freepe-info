@@ -15,8 +15,8 @@
 | --- | --- |
 | [Facebook](https://www.facebook.com/FreePe-project-1705439936387017/)  | ![](../images/networking.png) [Сообщество](http://freepe.co/) | [Appear](https://appear.in/freepe) |
 | [Google +](https://plus.google.com/106815883580854777966)  | ![](../images/piggy-bank.png) [Ресурсы](http://freepe.io/) | [Mexy](http://temp.mexy.pro/#freepe) |
-| [Instagram](https://www.instagram.com/thefreepe/) | ![](../images/ellipse.png) [Нейросеть](http://freepe.net/) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
-| [Twitter](https://twitter.com/_freepe) |![](../images/computer.png) [Блог проекта](freepe.online) | [Slack](https://freepe.slack.com/messages/@freepe/) |
+| [Instagram](https://www.instagram.com/freepe_org/) | ![](../images/ellipse.png) [Нейросеть](http://freepe.net/) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
+| [Twitter](https://twitter.com/freepe_org) |![](../images/computer.png) [Блог проекта](freepe.online) | [Slack](https://freepe.slack.com/messages/@freepe/) |
 | [Vkontakte]( https://vk.com/freepe_org) | ![](../images/worldwide.png)  [Сайт проекта](http://freepe.org/) | [Telegram](https://telegram.me/FreePe) |
 
 
