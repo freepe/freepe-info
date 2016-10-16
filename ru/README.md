@@ -15,9 +15,9 @@
 | --- | --- |
 | [Facebook](https://www.facebook.com/FreePe-project-1705439936387017/)  | ![](../images/networking.png) [Люди](http://freepe.co/) | [Appear](https://appear.in/freepe) |
 | [Google +](https://plus.google.com/106815883580854777966)  | ![](../images/piggy-bank.png) [Ресурсы](http://freepe.io/) | [Mexy](http://temp.mexy.pro/#freepe) |
-| [Instagram](https://www.instagram.com/thefreepe/) | ![](../images/ellipse.png) [Сеть](http://freepe.net/) | [Slack](https://freepe.slack.com/messages/@freepe/) |
-| [Twitter](https://twitter.com/_freepe) |![](../images/computer.png) [Блог проекта](freepe.online) | [Telegram](https://telegram.me/FreePe) |
-| [Vkontakte]( https://vk.com/freepe_org) | ![](../images/worldwide.png)  [Сайт проекта](http://freepe.org/) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
+| [Instagram](https://www.instagram.com/thefreepe/) | ![](../images/ellipse.png) [Сеть](http://freepe.net/) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
+| [Twitter](https://twitter.com/_freepe) |![](../images/computer.png) [Блог проекта](freepe.online) | [Slack](https://freepe.slack.com/messages/@freepe/) |
+| [Vkontakte]( https://vk.com/freepe_org) | ![](../images/worldwide.png)  [Сайт проекта](http://freepe.org/) | [Telegram](https://telegram.me/FreePe) |
 
 
 
@@ -29,10 +29,12 @@
 
 > [Вводная презентация](https://goo.gl/bxv33W)
 
+> [Пасспорт проекта](https://docs.google.com/document/d/1GnrxdCtFMjPPS1eUxlDGbqEqOFm0PIk5tMNXN7Pmj38/edit?usp=sharing)
+
 > [Подробная презентация](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
 
 > [Процесс разработки](https://pintask.me/board/vPsfuf2sawcaDyt6b) 
 
-> [Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU) (схемы, картинки, тексты и другие материалы)
-
 > [Отчет](https://goo.gl/ArDg5z)  - Прогресс реализации этапов проекта и учет вкладов участников.
+  
+> [Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU) (схемы, картинки, тексты и другие материалы)
