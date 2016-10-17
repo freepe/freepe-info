@@ -10,6 +10,11 @@
 
 #####Dream is your hands!
 
+-- OR --
+
+####Decentralized world
+
+
 Login or email
 Password
 Log in
