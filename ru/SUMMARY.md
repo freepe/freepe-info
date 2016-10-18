@@ -126,7 +126,6 @@
            * [Интерфейс FreePe](interfeis_freepe1.md)
        * [Дополнительные материалы](dopolnitelnie_materiali1.md)
        * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
-       * Контент
        * Дизайн
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
