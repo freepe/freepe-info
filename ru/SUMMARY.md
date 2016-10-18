@@ -118,7 +118,7 @@
            * [FreePe Idea](freepe_idea1.md)
            * [FPM](fpm.md)
            * [Обмен](fpn11.md)
-           * [RefProgram FPM](refprogram_fpm.md)
+           * [Реферальная программа](refprogram_fpm.md)
            * [Workchain I/O](workchain_io.md)
            * [Workchain hash](workchain_hash1.md)
            * [Архитектура FreePe](arhitektura_freepe1.md)
