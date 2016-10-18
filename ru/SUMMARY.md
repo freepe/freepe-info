@@ -127,5 +127,6 @@
                * [Соглашения](soglasheniya.md)
    * [Дополнительные материалы](dop_materialu.md)
        * Контент
+       * Дизайн
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
