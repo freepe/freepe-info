@@ -48,7 +48,6 @@
                * [Модель](model.md)
                    * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                * [Страницы](stranitsi.md)
-       * [Дополнительные материалы](dopolnitelnie_materiali1.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
            * [Продвижение](promo-kampaniya.md)
@@ -126,6 +125,7 @@
            * [Workchain hash](workchain_hash1.md)
            * [Архитектура FreePe](arhitektura_freepe1.md)
            * [Интерфейс FreePe](interfeis_freepe1.md)
+       * [Дополнительные материалы](dopolnitelnie_materiali1.md)
        * Контент
        * Дизайн
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
