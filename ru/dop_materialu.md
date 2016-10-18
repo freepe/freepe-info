@@ -23,3 +23,39 @@
 6. ***[FreePe отчет](https://docs.google.com/spreadsheets/d/1_7xJDyoCAJZT98oaBo4tNqVLSCIdAgJUU3CUlhbph1A/edit?usp=drive_web)***
 
 7. ***[FreePe процесс](https://docs.google.com/document/d/1XDXSa8o4oHrpqb6wYGIB9uT2oCLU_T30Lug_vMEBaiY/edit?usp=drive_web)***
+
+***[FreePe План](https://docs.google.com/document/d/1_hDmjx08lg2cCoeotdH0_NUG3NBoR0pVrTApEBAYYfM/edit?usp=drive_web)***
+Вам могут быть интересны такие документы, касающиеся плана проекта:
+
+***1. [Продвижение:](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)***
+
+   1.1. [Бриф-сайт](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)
+
+   1.2. [Описательная презентация](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)
+
+   1.3. [Пиар](https://docs.google.com/spreadsheets/d/1aL9fZSJ0ozQNsCxrQtZoEE7B2MJLuO0ZhQNQnw0H9V0/edit)
+
+   1.4. [План запуска и развития FreePe](https://docs.google.com/spreadsheets/d/1KFvC2mrwqpSyrADgCuDlWN9wyLC4XjzRVVT-JqdCXOg/edit?usp=drive_web)
+
+   1.5. [Промо-кампания](https://docs.google.com/document/d/1-0VKrlSL1n-wIzEu850kpwqyzyBIlYziqAY7i89cJKU/edit?usp=drive_web)
+
+   1.6. [Промо-сайт](https://docs.google.com/spreadsheets/d/1eqssQkY6am-Kh3MXrvuKYGyh7vxrAWR_c1TO8Y9u3nc/edit?usp=drive_web)
+
+   1.7. [Страницы к описательному сайту](https://docs.google.com/document/d/1AneaBfdaqsETjBvdvsS1UagiDr8iFTeg0EvChDJoF6o/edit?usp=drive_web)
+
+   1.8. [FreePe e-mail рассылка](https://docs.google.com/document/d/1O6Z8nDI6G3FlHrVCb_P_RusaYSaLK-GOaN09V4oi2d0/edit?usp=drive_web)
+
+   1.9. [FreePe IO ТЗ](https://docs.google.com/document/d/1zZZivjemA7UUW0g-g6cY0Bb1k45qtDnHTrDgrRfjZ5s/edit?usp=drive_web)
+
+   1.10. [FreePe promo рассылка](https://docs.google.com/document/d/1eDgm9qVTjiI0gFAKWd50j2zp8mn0tzS9DHJC7oh7HM8/edit?usp=drive_web)
+
+   1.11. [IPO](https://docs.google.com/spreadsheets/d/18kOAe5WlSwp84s3OSRXwh79oElds3t00YhoNiAOjjhQ/edit?usp=drive_web)
+
+
+***2. [Обсуждения](https://drive.google.com/drive/folders/0B9biSVDYIz5yTmx2bUUwNEt0aEE)***
+
+   2.1 [1 июля](https://docs.google.com/document/d/188RlLa40Hf3cqnhjBV2aSLtCF_DdXen6vW0GS0jAa-E/edit#heading=h.uu8jbs5kxjhl) 
+
+   2.2 [2 июля](https://docs.google.com/document/d/1Dz7qjxjHe6kOZwy2bEKIRoWI4i2If0O1Q8nTd_4jogA/edit)
+
+   2.3 [5 июля](https://docs.google.com/document/d/1xBXtFeN0wIOQSIhiaZNptq457fg_QcjmKJ_lQyHGB2I/edit)
