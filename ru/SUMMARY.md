@@ -106,9 +106,6 @@
    * [Дополнительные материалы](dop_materialu.md)
        * [Презентации проекта](prezentatsii_proekta.md)
            * [Текст презентации](tekst_prezentatsii.md)
-       * [Черновик](chernovik.md)
-           * [Правила и условия](pravila_i_usloviya.md)
-           * [Соглашения](soglasheniya.md)
        * [Схемы](dopolnitelnie_materiali.md)
            * [FreePe Алгоритм](freepe_algoritm.md)
            * [План слияния и развития](plan_sliyaniya_i_razvitiya.md)
@@ -122,5 +119,8 @@
            * [Workchain hash](workchain_hash1.md)
            * [Архитектура FreePe](arhitektura_freepe1.md)
            * [Интерфейс FreePe](interfeis_freepe1.md)
+       * [Черновик](chernovik.md)
+           * [Правила и условия](pravila_i_usloviya.md)
+           * [Соглашения](soglasheniya.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
