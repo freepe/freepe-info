@@ -117,7 +117,7 @@
            * [FreePe сеть](freepe_set1.md)
            * [FreePe Idea](freepe_idea1.md)
            * [FPM](fpm.md)
-           * [FPN](fpn11.md)
+           * [Обмен](fpn11.md)
            * [RefProgram FPM](refprogram_fpm.md)
            * [Workchain I/O](workchain_io.md)
            * [Workchain hash](workchain_hash1.md)
