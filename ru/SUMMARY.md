@@ -109,7 +109,6 @@
            * [Соглашения](soglasheniya.md)
        * [Презентации проекта](prezentatsii_proekta.md)
            * [Текст презентации](tekst_prezentatsii.md)
-       * [Материалы](materiali.md)
        * [Схемы](dopolnitelnie_materiali.md)
            * [FreePe Алгоритм](freepe_algoritm.md)
            * [План слияния и развития](plan_sliyaniya_i_razvitiya.md)
