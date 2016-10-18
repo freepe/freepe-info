@@ -122,6 +122,5 @@
            * [Workchain hash](workchain_hash1.md)
            * [Архитектура FreePe](arhitektura_freepe1.md)
            * [Интерфейс FreePe](interfeis_freepe1.md)
-       * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
