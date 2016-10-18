@@ -126,5 +126,5 @@
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
-   * Дополнительные материалы
+   * [Дополнительные материалы](dop_materialu.md)
 
