@@ -110,7 +110,7 @@
            * [Черновик](chernovik.md)
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
-       * [Дополнительные материалы](dopolnitelnie_materiali.md)
+       * [Схемы ](dopolnitelnie_materiali.md)
            * [FreePe Алгоритм](freepe_algoritm.md)
            * [План слияния и развития](plan_sliyaniya_i_razvitiya.md)
            * [FreePe процессы](freepe_protsessi1.md)
