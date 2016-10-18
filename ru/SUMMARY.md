@@ -84,7 +84,6 @@
                * [Дашбоард](dashboard_io.md)
            * [Технический паспорт](tehnicheskii_pasport.md)
                * [Начало работы](nachalo_raboti.md)
-           * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
        * [FreePe Net](freepe_net.md)
        * [FreePe Online](freepe_online.md)
            * [Вводная статья](vvodnaya_statya.md)
@@ -126,6 +125,7 @@
            * [Архитектура FreePe](arhitektura_freepe1.md)
            * [Интерфейс FreePe](interfeis_freepe1.md)
        * [Дополнительные материалы](dopolnitelnie_materiali1.md)
+       * [Дополнительные материалы](dopolnitelnie_materiali_io.md)
        * Контент
        * Дизайн
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
