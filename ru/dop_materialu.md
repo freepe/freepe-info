@@ -23,4 +23,6 @@
 6. ***[FreePe отчет](https://docs.google.com/spreadsheets/d/1_7xJDyoCAJZT98oaBo4tNqVLSCIdAgJUU3CUlhbph1A/edit?usp=drive_web)***
 
 7. ***[FreePe процесс](https://docs.google.com/document/d/1XDXSa8o4oHrpqb6wYGIB9uT2oCLU_T30Lug_vMEBaiY/edit?usp=drive_web)***
+8. 
+8. ***[FreePenny стоимость]( https://docs.google.com/spreadsheets/d/15qjeMWLIXKBcD7hW5LufVvJnaPi1_A1x69Iu8WOBMTw/edit?usp=sharing)***
 
