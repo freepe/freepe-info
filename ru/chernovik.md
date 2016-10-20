@@ -3,6 +3,7 @@
 ***[FreePe План](https://docs.google.com/document/d/1_hDmjx08lg2cCoeotdH0_NUG3NBoR0pVrTApEBAYYfM/edit?usp=drive_web)***
 Вам могут быть интересны такие документы, касающиеся плана проекта:
 
+
 ***1. [Продвижение:](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)***
 
    1.1. [Бриф-сайт](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)
@@ -60,3 +61,12 @@
 
   
   **3. [Сайт](https://drive.google.com/drive/folders/0B9mbBuJnN6tcaTlReHF1Mm1kOEE)**
+  
+   - [Для сайта](https://drive.google.com/drive/folders/0B9mbBuJnN6tcX2tzS1llYWptaEU)
+   
+   - [Контент](https://drive.google.com/drive/folders/0B9mbBuJnN6tcMS1nMmNBRkV3NDg)
+
+     - [Сценарий вирусного ролика](https://docs.google.com/document/d/1vJKl1VZGFVpzy0ZXCU5FHqbG9mrKVtUnNXMdRRt6lAs/edit?usp=drive_web)
+   
+     - [Статьи](https://drive.google.com/drive/folders/0B9mbBuJnN6tcT05vS2FBQzNIcWs) 
+     - [Freepe Передумови ](https://docs.google.com/document/d/1ntTl5_PAAbp4aCxPbfE1IpwiamuPrZuBk4s7RqkE4uA/edit?usp=drive_web)
