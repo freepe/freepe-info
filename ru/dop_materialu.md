@@ -1,12 +1,8 @@
 # Дополнительные материалы
 
-* ***[Все материалы](https://drive.google.com/drive/folders/0B9mbBuJnN6tcc2pHV0pKTzljSTA)***
-
-2. ***[Письма](https://drive.google.com/drive/folders/0B9mbBuJnN6tcRjNSMEJ2dVdLMmc)***
+* ***[Все материалы на гугл драйве](https://drive.google.com/drive/folders/0B9mbBuJnN6tcc2pHV0pKTzljSTA)***
 
 3. ***[Потенциальные партнеры](https://docs.google.com/spreadsheets/d/1CEjAu35q0bsh9CmuZq7L7WeW8r54ApLZhDELFaAUGcE/edit?usp=drive_web)***
-
-4. ***[Служебные письма](https://drive.google.com/drive/folders/0B9mbBuJnN6tcRjNSMEJ2dVdLMmc)***
 
 5. ***[Средняя минимальная зарплата](https://docs.google.com/spreadsheets/d/1qJUdpg92HsaAt8gsHROI2laoGqZe-Heo2fxZcWoDVgY/edit?usp=drive_web)***
 
