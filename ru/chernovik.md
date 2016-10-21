@@ -70,3 +70,4 @@
    
      - [Статьи](https://drive.google.com/drive/folders/0B9mbBuJnN6tcT05vS2FBQzNIcWs) 
      - [Freepe Передумови ](https://docs.google.com/document/d/1ntTl5_PAAbp4aCxPbfE1IpwiamuPrZuBk4s7RqkE4uA/edit?usp=drive_web)
+
