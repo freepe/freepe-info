@@ -21,6 +21,7 @@
            * [Landing](landing-org.md)
            * [Offer](offer.md)
            * [Cooperation](cooperation.md)
+           * About FreePe
    * [TheFreePe Com](thefreepecom_content.md)
        * [Landing](landing_com.md)
            * [FAQ](faq.md)
