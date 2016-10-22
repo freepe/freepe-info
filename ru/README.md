@@ -26,7 +26,7 @@ FreePe хочет подарить людям полную свободу в п�
 
 
 
-**Полезные материалы:**
+**Полезные ссылки:**
 
 
 > [Вводная презентация](https://goo.gl/bxv33W)
@@ -37,6 +37,14 @@ FreePe хочет подарить людям полную свободу в п�
 
 > [Процесс разработки](https://pintask.me/board/vPsfuf2sawcaDyt6b) 
 
-> [Отчет](https://goo.gl/ArDg5z)  - Прогресс реализации этапов проекта и учет вкладов участников.
+> [Отчет по работе](https://goo.gl/ArDg5z)
   
-> [Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU) (схемы, картинки, тексты и другие материалы)
+> [Все материалы на Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU)
+
+> [Потенциальные партнеры](https://docs.google.com/spreadsheets/d/1CEjAu35q0bsh9CmuZq7L7WeW8r54ApLZhDELFaAUGcE/edit?usp=drive_web)
+ 
+> [Средняя минимальная зарплата](https://docs.google.com/spreadsheets/d/1qJUdpg92HsaAt8gsHROI2laoGqZe-Heo2fxZcWoDVgY/edit?usp=drive_web)
+
+> [FreePenny стоимость]( https://docs.google.com/spreadsheets/d/15qjeMWLIXKBcD7hW5LufVvJnaPi1_A1x69Iu8WOBMTw/edit?usp=sharing)
+
+
