@@ -20,7 +20,7 @@
        * [Web content](web_content.md)
            * [Landing](landing-org.md)
            * [Offer](offer.md)
-           * Cooperation
+           * [Cooperation](cooperation.md)
    * [TheFreePe Com](thefreepecom_content.md)
        * [Landing](landing_com.md)
            * [FAQ](faq.md)
