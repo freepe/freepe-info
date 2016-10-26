@@ -12,8 +12,10 @@ The pools shall be allocated as follows:
 3M — Current and future advisory
 19.5M —Team, sponsor and foundation general allocation*
 *to be used as incentives and compensations to contractors, high profile developers, contributors, optional future bounties and more
+
 Early birds bonuses
 The first 10,000 Bitcoins donated shall receive a visionary bonus of 10%.
+
 In addition:
 The first 24 hours shall have a 20% early bird bonus
 The next 10 days shall have a 15% bonus
