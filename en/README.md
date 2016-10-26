@@ -3,7 +3,7 @@
 
 
 
-![](../images/Banner_2.jpg)
+![](../images/Banner.jpg)
 
 
 ---
