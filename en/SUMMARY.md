@@ -12,7 +12,7 @@
            * [Registration](registration_io.md)
            * [Welcome](welcome_io.md)
            * [Wallet](wallet_io.md)
-           * [Cabinet](cabinet_io.md)
+           * [Dashboard](cabinet_io.md)
    * [FreePe Net](freepe_net.md)
    * [FreePe Online](freepe_online.md)
    * [FreePe Org](freepe_org.md)
