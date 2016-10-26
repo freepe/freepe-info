@@ -3,7 +3,7 @@
 
 
 
-![](../images/logo.png)
+![](../images/Banner_2.jpg)
 
 
 ---
