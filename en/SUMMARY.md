@@ -27,5 +27,5 @@
            * [FAQ](faq.md)
    * [Realization](realization.md)
        * Process
-           * Promo campaign
+           * [Promo campaign](promo_campaign.md)
 
