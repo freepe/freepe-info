@@ -15,7 +15,6 @@
            * [Cabinet](cabinet_io.md)
    * [FreePe Net](freepe_net.md)
    * [FreePe Online](freepe_online.md)
-       * [Вводная статья](vvodnaya_statya.md)
    * [FreePe Org](freepe_org.md)
        * [Web content](web_content.md)
            * [Landing](landing-org.md)
