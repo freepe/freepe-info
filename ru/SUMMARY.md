@@ -72,6 +72,7 @@
                    * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                    * [Члены сообществ](chleni_soobschestv.md)
                * [Руководство для участников](rukovodstvo_dlya_uchastnikov.md)
+               * Краудфандинг
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
