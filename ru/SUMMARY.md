@@ -123,6 +123,5 @@
            * [Правила и условия](pravila_i_usloviya.md)
            * [Соглашения](soglasheniya.md)
            * [Реферальная программа](referalnaya_programma.md)
-           * [Промо кампания](promo_kampaniya.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
