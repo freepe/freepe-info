@@ -120,7 +120,7 @@
            * [Workchain hash](workchain_hash1.md)
            * [Архитектура FreePe](arhitektura_freepe1.md)
            * [Интерфейс FreePe](interfeis_freepe1.md)
-           * FreePenny Генерация
+           * [FreePenny Генерация](freepenny_generatsiya.md)
        * [Черновик](chernovik.md)
            * [Правила и условия](pravila_i_usloviya.md)
            * [Соглашения](soglasheniya.md)
