@@ -112,7 +112,7 @@
            * [FreePe процессы](freepe_protsessi1.md)
            * [FreePe сеть](freepe_set1.md)
            * [FreePe Idea](freepe_idea1.md)
-           * [FPM](fpm.md)
+           * [FPN](fpm.md)
            * [Обмен](fpn11.md)
            * [Реферальная программа](refprogram_fpm.md)
            * [Workchain I/O](workchain_io.md)
