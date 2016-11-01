@@ -121,6 +121,7 @@
            * [Архитектура FreePe](arhitektura_freepe1.md)
            * [Интерфейс FreePe](interfeis_freepe1.md)
            * [FreePenny Генерация](freepenny_generatsiya.md)
+           * FreePe Value
        * [Черновик](chernovik.md)
            * [Правила и условия](pravila_i_usloviya.md)
            * [Соглашения](soglasheniya.md)
