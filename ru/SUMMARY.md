@@ -99,7 +99,7 @@
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
            * [Веб контент](web_content.md)
                * [Лендинг](lending.md)
-               * [Руководство для участников](rukovodstvo_dlya_uchastnikov.md)
+               * [Сотрудничество](rukovodstvo_dlya_uchastnikov.md)
                * [О проекте](o_proekte1.md)
                * [Предложение](predlozhenie11.md)
        * [TheFreePe Сom](thefreepecom_content.md)
