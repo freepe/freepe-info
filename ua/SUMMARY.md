@@ -2,6 +2,7 @@
 
 * [Світ FreePe](README.md)
    * [Концепт](kontsept.md)
+       * Цілі та переваги
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
