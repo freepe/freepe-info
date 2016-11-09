@@ -1,7 +1,7 @@
 # Summary
 
 * [Світ FreePe](README.md)
-   * Концепт
+   * [Концепт](kontsept.md)
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
