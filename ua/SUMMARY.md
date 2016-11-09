@@ -2,7 +2,7 @@
 
 * [Світ FreePe](README.md)
    * [Концепт](kontsept.md)
-       * [Цілі та переваги](tsl_ta_perevagi.md)
+       * [Місія та переваги](tsl_ta_perevagi.md)
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
