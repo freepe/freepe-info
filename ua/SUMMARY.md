@@ -16,7 +16,7 @@
                * [Ресурси](resursi.md)
                * [Можливості](mozhlivost.md)
            * [FreePenny](freepenny.md)
-       * [Реалізація](realzatsya.md)
+       * [Фундамент](realzatsya.md)
            * [Організація](organzatsya.md)
                * [Статут](statut.md)
                    * [Загальні положення](zagaln_polozhennya.md)
