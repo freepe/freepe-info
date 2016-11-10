@@ -9,7 +9,7 @@
        * [Місія та переваги](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
        * [Реалізація](realzatsya.md)
-       * [Організація](organzatsya.md)
+   * [Організація](organzatsya.md)
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [Компоненти](komponenti.md)
