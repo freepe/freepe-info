@@ -7,8 +7,8 @@
        * [Реалізація](realzatsya.md)
        * [Компоненти](komponenti.md)
            * Люди
-   * Веб-портали
    * Ідеологія
+   * Веб-портали
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
