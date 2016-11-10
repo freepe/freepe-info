@@ -1,6 +1,7 @@
 # Summary
 
 * [Світ FreePe](README.md)
+   * Етап 0. Ідентифікація
    * [Ідеологія](ideologya.md)
        * [Структура](struktura.md)
        * [Довіра](dovіra.md)
@@ -57,5 +58,4 @@
                * [Текст презентації другої](tekst_prezentatsii.md)
        * [Приклади використання](prikladi_vikoristannya.md)
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
-   * Етап 0. Ідентифікація
 
