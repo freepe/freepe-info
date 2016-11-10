@@ -6,6 +6,7 @@
        * [Аудиторія](auditorya.md)
        * [Реалізація](realzatsya.md)
        * [Компоненти](komponenti.md)
+           * Люди
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
