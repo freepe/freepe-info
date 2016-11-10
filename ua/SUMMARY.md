@@ -52,7 +52,6 @@
                    * [Про проект](proproekt.md)
            * [TheFreePe Сompany](thefreepecom_content.md)
                * Веб контент
-           * 1
        * [Матеріали](materialu.md)
            * [Презентації](prezentatsiyi.md)
                * [Текст презентації другої](tekst_prezentatsii.md)
