@@ -61,4 +61,5 @@
        * 1
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
    * Етап 2. Розповсюдження
+       * 1
 
