@@ -16,9 +16,9 @@
    * [Реалізація](realzatsya.md)
        * [Організація](organzatsya.md)
        * [Веб-портали](veb-portali.md)
+           * [FreePe Info](freepe_info.md)
+               * [Зміст](zmst.md)
            * 1
-   * [FreePe Info](freepe_info.md)
-       * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
        * [Технический паспорт](tehnicheskii_pasport.md)
        * [Контент для FreePe IO](kontent_dlya_freepe_io.md)
