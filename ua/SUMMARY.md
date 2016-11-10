@@ -1,13 +1,13 @@
 # Summary
 
 * [Світ FreePe](README.md)
+   * Ідеологія
    * [Концепт](kontsept.md)
        * [Місія та переваги](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
        * [Реалізація](realzatsya.md)
        * [Компоненти](komponenti.md)
            * Люди
-   * Ідеологія
    * Веб-портали
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
