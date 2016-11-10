@@ -43,7 +43,7 @@
            * [Про проект](proproekt.md)
    * [TheFreePe Сompany](thefreepecom_content.md)
        * Веб контент
-   * [Матеріиали](materialu.md)
+   * [Матеріали](materialu.md)
        * [Презентації](prezentatsiyi.md)
            * [Текст презентації другої](tekst_prezentatsii.md)
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
