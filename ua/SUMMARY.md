@@ -14,7 +14,7 @@
            * [Ресурси](resursi.md)
            * [Можливості](mozhlivost.md)
    * [Реалізація](realzatsya.md)
-       * Веб-портали
+       * [Веб-портали](veb-portali.md)
    * [Організація](organzatsya.md)
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
