@@ -1,7 +1,7 @@
 # Summary
 
 * [Світ FreePe](README.md)
-   * Ідеологія
+   * [Ідеологія](ideologya.md)
    * [Концепт](kontsept.md)
        * [Місія та переваги](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
