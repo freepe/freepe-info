@@ -6,7 +6,7 @@
        * [Довіра](dovіra.md)
        * [Рішення розбіжностей](rshennya_rozbzhnostei.md)
    * [Концепт](kontsept.md)
-       * [Місія та переваги](tsl_ta_perevagi.md)
+       * [Місія](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
        * [Компоненти](komponenti.md)
            * [Люди](lyudi.md)
