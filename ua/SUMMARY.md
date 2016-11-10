@@ -47,4 +47,5 @@
        * [Презентації](prezentatsiyi.md)
            * [Текст презентації другої](tekst_prezentatsii.md)
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
+   * Веб-портали
 
