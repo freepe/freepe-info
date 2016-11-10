@@ -4,6 +4,7 @@
    * [Ідеологія](ideologya.md)
        * [Структура](struktura.md)
        * [Довіра](dovіra.md)
+       * Рішення розбіжностей
    * [Концепт](kontsept.md)
        * [Місія та переваги](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
