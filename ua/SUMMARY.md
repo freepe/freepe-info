@@ -33,8 +33,6 @@
                * ](dopolnitelnie_materiali_io.md)
            * [FreePe Online](freepe_online.md)
                * [Перша стаття](vvodnaya_statya.md)
-           * [TheFreePe Сompany](thefreepecom_content.md)
-               * Веб контент
            * [FreePe Org](freepe_org.md)
                * [Статут](statut.md)
                    * [Загальні положення](zagaln_polozhennya.md)
@@ -50,6 +48,8 @@
                    * [Пропозиція](propositsiya.md)
                    * [Взаємодія](vzaemodiya.md)
                    * [Про проект](proproekt.md)
+           * [TheFreePe Сompany](thefreepecom_content.md)
+               * Веб контент
            * 1
    * [FreePe Net](freepe_net.md)
    * [Матеріали](materialu.md)
