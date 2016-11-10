@@ -1,8 +1,8 @@
 # Summary
 
 * [Світ FreePe](README.md)
-   * Етап 0. Ідентифікація
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
+   * Етап 0. Ідентифікація
    * Етап 1. Формування
        * [Ідеологія](ideologya.md)
            * [Структура](struktura.md)
