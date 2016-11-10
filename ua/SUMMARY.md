@@ -4,6 +4,7 @@
    * [Концепт](kontsept.md)
        * [Місія та переваги](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
+       * Реалізація
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
