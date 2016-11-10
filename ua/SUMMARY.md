@@ -13,7 +13,7 @@
            * [Знання](znannya.md)
            * [Ресурси](resursi.md)
            * [Можливості](mozhlivost.md)
-       * FreePenny
+       * [FreePenny](freepenny.md)
    * [Реалізація](realzatsya.md)
        * [Організація](organzatsya.md)
        * [Веб-портали](veb-portali.md)
