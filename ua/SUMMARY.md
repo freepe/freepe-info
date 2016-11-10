@@ -7,6 +7,7 @@
        * [Реалізація](realzatsya.md)
        * [Компоненти](komponenti.md)
            * Люди
+   * Ідеологія
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
@@ -46,5 +47,4 @@
        * [Презентації](prezentatsiyi.md)
            * [Текст презентації другої](tekst_prezentatsii.md)
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
-   * Ідеологія
 
