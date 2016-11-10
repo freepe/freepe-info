@@ -2,6 +2,7 @@
 
 * [Світ FreePe](README.md)
    * [Ідеологія](ideologya.md)
+       * Структура
    * [Концепт](kontsept.md)
        * [Місія та переваги](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
