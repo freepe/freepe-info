@@ -25,7 +25,6 @@
                * [Порядок внесення змін та доповнень до статуту](poryadok_vnesennya_zmn_ta_dopovnen_do_statutu.md)
                * [Зовнішньоекономічна діяльність](zovnshnoekonomchna_dyalnst.md)
                * [Припинення діяльності об'єднання](pripinennya_dyalnost_obdnannya.md)
-           * 1
        * [Веб-портали](veb-portali.md)
            * [FreePe Info](freepe_info.md)
                * [Зміст](zmst.md)
