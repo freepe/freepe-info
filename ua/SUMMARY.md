@@ -14,6 +14,7 @@
            * [Знання](znannya.md)
            * [Ресурси](resursi.md)
            * [Можливості](mozhlivost.md)
+       * Організація
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
