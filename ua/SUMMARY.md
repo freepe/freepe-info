@@ -11,7 +11,7 @@
        * [Реалізація](realzatsya.md)
        * [Компоненти](komponenti.md)
            * [Люди](lyudi.md)
-           * Знання
+           * [Знання](znannya.md)
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
