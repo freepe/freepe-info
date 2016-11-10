@@ -31,6 +31,7 @@
                    * [Кабінет](kabinet-io.md)
                * [Додаткові матеріали
                * ](dopolnitelnie_materiali_io.md)
+           * [FreePe Net](freepe_net.md)
            * [FreePe Online](freepe_online.md)
                * [Перша стаття](vvodnaya_statya.md)
            * [FreePe Org](freepe_org.md)
@@ -51,7 +52,6 @@
            * [TheFreePe Сompany](thefreepecom_content.md)
                * Веб контент
            * 1
-   * [FreePe Net](freepe_net.md)
    * [Матеріали](materialu.md)
        * [Презентації](prezentatsiyi.md)
            * [Текст презентації другої](tekst_prezentatsii.md)
