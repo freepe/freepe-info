@@ -15,6 +15,9 @@
            * [Можливості](mozhlivost.md)
    * [Реалізація](realzatsya.md)
        * [Організація](organzatsya.md)
+       * [Матеріали](materialu.md)
+           * [Презентації](prezentatsiyi.md)
+               * [Текст презентації другої](tekst_prezentatsii.md)
        * [Веб-портали](veb-portali.md)
            * [FreePe Info](freepe_info.md)
                * [Зміст](zmst.md)
@@ -52,8 +55,5 @@
            * [TheFreePe Сompany](thefreepecom_content.md)
                * Веб контент
            * 1
-   * [Матеріали](materialu.md)
-       * [Презентації](prezentatsiyi.md)
-           * [Текст презентації другої](tekst_prezentatsii.md)
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
 
