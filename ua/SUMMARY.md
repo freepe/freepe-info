@@ -3,11 +3,11 @@
 * [Світ FreePe](README.md)
    * Етап 0. Ідентифікація
    * Етап 1. Формування
+       * [Ідеологія](ideologya.md)
+           * [Структура](struktura.md)
+           * [Довіра](dovіra.md)
+           * [Рішення розбіжностей](rshennya_rozbzhnostei.md)
        * 1
-   * [Ідеологія](ideologya.md)
-       * [Структура](struktura.md)
-       * [Довіра](dovіra.md)
-       * [Рішення розбіжностей](rshennya_rozbzhnostei.md)
    * [Концепт](kontsept.md)
        * [Місія](tsl_ta_perevagi.md)
        * [Аудиторія](auditorya.md)
