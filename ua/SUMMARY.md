@@ -60,5 +60,4 @@
            * [Приклади використання](prikladi_vikoristannya.md)
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
    * Етап 2. Розповсюдження
-       * 1
 
