@@ -7,6 +7,7 @@
        * [Реалізація](realzatsya.md)
        * [Компоненти](komponenti.md)
            * Люди
+   * Веб-портали
    * Ідеологія
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
@@ -47,5 +48,4 @@
        * [Презентації](prezentatsiyi.md)
            * [Текст презентації другої](tekst_prezentatsii.md)
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
-   * [Веб-портали](veb-portali.md)
 
