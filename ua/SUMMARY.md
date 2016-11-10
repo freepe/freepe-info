@@ -31,10 +31,10 @@
                    * [Кабінет](kabinet-io.md)
                * [Додаткові матеріали
                * ](dopolnitelnie_materiali_io.md)
+           * [FreePe Online](freepe_online.md)
+               * [Перша стаття](vvodnaya_statya.md)
            * 1
    * [FreePe Net](freepe_net.md)
-   * [FreePe Online](freepe_online.md)
-       * [Перша стаття](vvodnaya_statya.md)
    * [FreePe Org](freepe_org.md)
        * [Статут](statut.md)
            * [Загальні положення](zagaln_polozhennya.md)
