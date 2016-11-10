@@ -12,7 +12,7 @@
        * [Компоненти](komponenti.md)
            * [Люди](lyudi.md)
            * [Знання](znannya.md)
-           * Ресурси
+           * [Ресурси](resursi.md)
    * [FreePe Info](freepe_info.md)
        * [Зміст](zmst.md)
    * [FreePe IO](freepe_io.md)
