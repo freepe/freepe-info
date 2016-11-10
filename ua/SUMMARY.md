@@ -58,7 +58,6 @@
                * [Презентації](prezentatsiyi.md)
                    * [Текст презентації другої](tekst_prezentatsii.md)
            * [Приклади використання](prikladi_vikoristannya.md)
-       * 1
    * [Часті питання](pytannya_scho_chasto_zvuchat.md)
    * Етап 2. Розповсюдження
        * 1
