@@ -50,7 +50,6 @@
                        * [Модель](model.md)
                            * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                        * [Страницы](stranitsi.md)
-           * 1
    * [Реализация](realizatsiya.md)
        * [Материалы](dop_materialu.md)
            * [Презентации проекта](prezentatsii_proekta.md)
