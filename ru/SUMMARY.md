@@ -50,7 +50,7 @@
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
            * [Зарождение](zarogdenie.md)
-           * [Краудфандинг](crowdfunding.md)
+           * [Продвижение](crowdfunding.md)
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
