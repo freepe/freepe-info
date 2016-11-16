@@ -125,6 +125,5 @@
                * [Авторы проектов](avtori_proektov.md)
                * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                * [Члены сообществ](chleni_soobschestv.md)
-           * 1
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
