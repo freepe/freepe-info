@@ -125,5 +125,5 @@
                * [О проекте](o_proekte1.md)
                * [Предложение](predlozhenie11.md)
        * [TheFreePe Сom](thefreepecom_content.md)
-   * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
+   * [Ответы на вопросы](chasto_zadavaemie_voprosi.md)
 
