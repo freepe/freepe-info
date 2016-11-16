@@ -51,11 +51,6 @@
        * [Процесс](protsess.md)
            * [Зарождение](zarogdenie.md)
            * [Краудфандинг](crowdfunding.md)
-           * [Шаблоны для приглашений](shabloni_dlya_priglashenii.md)
-               * [Друзьям и знакомым](druzyam_i_znakomim.md)
-               * [Авторы проектов](avtori_proektov.md)
-               * [Руководители предприятий](rukovoditeli_predpriyatii.md)
-               * [Члены сообществ](chleni_soobschestv.md)
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
@@ -125,6 +120,11 @@
                * [Новый уровень](novii_uroven.md)
                * [Вывод FPM](vivod_fpm.md)
                * [Операция обмена](operatsiya_obmena.md)
+           * [Шаблоны для приглашений](shabloni_dlya_priglashenii.md)
+               * [Друзьям и знакомым](druzyam_i_znakomim.md)
+               * [Авторы проектов](avtori_proektov.md)
+               * [Руководители предприятий](rukovoditeli_predpriyatii.md)
+               * [Члены сообществ](chleni_soobschestv.md)
            * 1
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
