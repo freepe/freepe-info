@@ -3,7 +3,7 @@
 * [Мир FreePe](README.md)
    * [Концепт](concept.md)
        * [Зарождение](zarogdenie.md)
-       * [Преимущества](preimuschestva.md)
+       * [Универсальное решение](preimuschestva.md)
        * [Целевая аудитория](tselevaya_auditoriya.md)
        * [Основные сферы](osnovnie_sfera.md)
            * [Люди](lyudi.md)
