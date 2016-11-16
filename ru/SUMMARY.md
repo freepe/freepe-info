@@ -94,7 +94,7 @@
                * [Правила и условия](pravila_i_usloviya.md)
                * [Соглашения](soglasheniya.md)
                * [Реферальная программа](referalnaya_programma.md)
-       * [Реализация](realizatsiya.md)
+       * [Веб-порталы](realizatsiya.md)
            * [FreePe Co](freepe_co.md)
            * [FreePe Info](freepe_info.md)
            * [FreePe IO](freepe_io.md)
