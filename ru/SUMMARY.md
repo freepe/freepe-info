@@ -50,6 +50,7 @@
                * [Страницы](stranitsi.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
+           * Этап 1
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
                * [О проекте](o_proekte.md)
@@ -71,7 +72,6 @@
                * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                * [Члены сообществ](chleni_soobschestv.md)
            * [Краудфандинг](crowdfunding.md)
-           * Этап 1
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
