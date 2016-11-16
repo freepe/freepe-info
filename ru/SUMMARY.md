@@ -124,5 +124,6 @@
            * [Правила и условия](pravila_i_usloviya.md)
            * [Соглашения](soglasheniya.md)
            * [Реферальная программа](referalnaya_programma.md)
+       * Тексты
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
