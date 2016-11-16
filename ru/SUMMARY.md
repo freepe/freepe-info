@@ -47,7 +47,6 @@
                    * [Модель](model.md)
                        * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                    * [Страницы](stranitsi.md)
-   * [Реализация](realizatsiya.md)
    * [Продвижение](crowdfunding.md)
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
