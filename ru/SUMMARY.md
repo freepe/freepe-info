@@ -48,6 +48,7 @@
                        * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                    * [Страницы](stranitsi.md)
    * [Продвижение](crowdfunding.md)
+       * 1
    * [Реализация](realizatsiya.md)
        * [Материалы](dop_materialu.md)
            * [Ответы на вопросы](chasto_zadavaemie_voprosi.md)
