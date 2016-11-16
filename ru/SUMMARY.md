@@ -50,7 +50,7 @@
                * [Страницы](stranitsi.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
-           * Этап 1. Ядро
+           * Этап 1. Зарождение
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
                * [О проекте](o_proekte.md)
