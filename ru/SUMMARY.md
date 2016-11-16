@@ -51,7 +51,6 @@
        * [Процесс](protsess.md)
            * [Зарождение](zarogdenie.md)
            * [Краудфандинг](crowdfunding.md)
-           * Продвижение
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
                * [О проекте](o_proekte.md)
