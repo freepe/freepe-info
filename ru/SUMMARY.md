@@ -126,5 +126,5 @@
                    * [О проекте](o_proekte1.md)
                    * [Предложение](predlozhenie11.md)
            * [TheFreePe Сom](thefreepecom_content.md)
-   * [Реализация](veb-platforma.md)
+   * [Реализация](realizatsiya.md)
 
