@@ -50,7 +50,7 @@
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
            * [Зарождение](zarogdenie.md)
-           * Этап 1. Зарождение
+           * Продвижение
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
                * [О проекте](o_proekte.md)
