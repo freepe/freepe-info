@@ -69,7 +69,7 @@
                * [Интерфейс FreePe](interfeis_freepe1.md)
                * [FreePenny Генерация](freepenny_generatsiya.md)
                * [FreePe Value](freepe_value.md)
-           * Тексты
+           * [Тексты](teksti.md)
                * [Контент для рассылки](kontent_dlya_rassilki.md)
                    * [Введение](vvedenie11.md)
                    * [О проекте](o_proekte.md)
