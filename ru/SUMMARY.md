@@ -120,11 +120,11 @@
            * [Соглашения](soglasheniya.md)
            * [Реферальная программа](referalnaya_programma.md)
        * Тексты
+           * [Контент для рассылки](kontent_dlya_rassilki.md)
+               * [Введение](vvedenie11.md)
+               * [О проекте](o_proekte.md)
+               * [Предложение](predlozhenie.md)
+               * [Сотрудничество](sotrudnichestvo.md)
            * 1
-   * [Контент для рассылки](kontent_dlya_rassilki.md)
-       * [Введение](vvedenie11.md)
-       * [О проекте](o_proekte.md)
-       * [Предложение](predlozhenie.md)
-       * [Сотрудничество](sotrudnichestvo.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
