@@ -47,7 +47,7 @@
                    * [Модель](model.md)
                        * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                    * [Страницы](stranitsi.md)
-   * [Веб-порталы](realizatsiya.md)
+   * [Реализация](realizatsiya.md)
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
