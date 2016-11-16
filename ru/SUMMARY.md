@@ -100,10 +100,6 @@
            * [Интерфейс FreePe](interfeis_freepe1.md)
            * [FreePenny Генерация](freepenny_generatsiya.md)
            * [FreePe Value](freepe_value.md)
-       * [Черновик](chernovik.md)
-           * [Правила и условия](pravila_i_usloviya.md)
-           * [Соглашения](soglasheniya.md)
-           * [Реферальная программа](referalnaya_programma.md)
        * Тексты
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
@@ -125,5 +121,9 @@
                * [Авторы проектов](avtori_proektov.md)
                * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                * [Члены сообществ](chleni_soobschestv.md)
+       * [Черновик](chernovik.md)
+           * [Правила и условия](pravila_i_usloviya.md)
+           * [Соглашения](soglasheniya.md)
+           * [Реферальная программа](referalnaya_programma.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
