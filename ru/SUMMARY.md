@@ -51,11 +51,6 @@
        * [Процесс](protsess.md)
            * [Зарождение](zarogdenie.md)
            * [Краудфандинг](crowdfunding.md)
-           * [Контент для рассылки](kontent_dlya_rassilki.md)
-               * [Введение](vvedenie11.md)
-               * [О проекте](o_proekte.md)
-               * [Предложение](predlozhenie.md)
-               * [Сотрудничество](sotrudnichestvo.md)
            * [Контент для служебных сообщений](kontent_dlya_sluzhebnih_soobschenii.md)
                * [Приветствие](privetstvie.md)
                * [Регистрация реферала](registratsiya_referala.md)
@@ -126,5 +121,10 @@
            * [Реферальная программа](referalnaya_programma.md)
        * Тексты
            * 1
+   * [Контент для рассылки](kontent_dlya_rassilki.md)
+       * [Введение](vvedenie11.md)
+       * [О проекте](o_proekte.md)
+       * [Предложение](predlozhenie.md)
+       * [Сотрудничество](sotrudnichestvo.md)
    * [Часто задаваемые вопросы](chasto_zadavaemie_voprosi.md)
 
