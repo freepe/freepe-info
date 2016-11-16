@@ -22,7 +22,6 @@
                * [Пример 1](primer_1.md)
                * [Пример 2](primer_2.md)
                * [Пример 3](primer_3.md)
-       * 1
    * [Продвижение](crowdfunding.md)
        * [План](plan.md)
            * [О компании](o_kompanii.md)
