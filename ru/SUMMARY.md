@@ -83,6 +83,7 @@
                        * [Предложение](predlozhenie11.md)
                * [TheFreePe Сom](thefreepecom_content.md)
    * [Материалы](dop_materialu.md)
+       * [Ответы на вопросы](chasto_zadavaemie_voprosi.md)
        * [Презентации проекта](prezentatsii_proekta.md)
            * [Текст презентации](tekst_prezentatsii.md)
        * [Схемы](dopolnitelnie_materiali.md)
@@ -125,5 +126,4 @@
            * [Правила и условия](pravila_i_usloviya.md)
            * [Соглашения](soglasheniya.md)
            * [Реферальная программа](referalnaya_programma.md)
-   * [Ответы на вопросы](chasto_zadavaemie_voprosi.md)
 
