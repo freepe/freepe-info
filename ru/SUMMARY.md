@@ -3,7 +3,6 @@
 * [Мир FreePe](README.md)
    * [Вступление](vstuplenie.md)
        * [Предисловие](predislovie.md)
-       * [Зарождение](zarogdenie.md)
    * [Концепт](concept.md)
        * [Преимущества](preimuschestva.md)
        * [Целевая аудитория](tselevaya_auditoriya.md)
@@ -50,6 +49,7 @@
                * [Страницы](stranitsi.md)
    * [Реализация](realizatsiya.md)
        * [Процесс](protsess.md)
+           * [Зарождение](zarogdenie.md)
            * Этап 1. Зарождение
            * [Контент для рассылки](kontent_dlya_rassilki.md)
                * [Введение](vvedenie11.md)
