@@ -1,6 +1,7 @@
 # Summary
 
 * [Мир FreePe](README.md)
+   * [Зарождение](zarogdenie.md)
    * [Концепт](concept.md)
        * [Зарождение](zarogdenie.md)
        * [Универсальное решение](preimuschestva.md)
