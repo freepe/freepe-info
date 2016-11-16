@@ -7,6 +7,7 @@
        * [Зарождение](zarogdenie.md)
            * 1
        * [Продвижение](crowdfunding.md)
+           * 1
    * [Концепт](concept.md)
        * [Преимущества](preimuschestva.md)
        * [Целевая аудитория](tselevaya_auditoriya.md)
