@@ -1,49 +1,101 @@
-# Дополнительные материалы
-
-***[FreePe План](https://docs.google.com/document/d/1_hDmjx08lg2cCoeotdH0_NUG3NBoR0pVrTApEBAYYfM/edit?usp=drive_web)***
-Вам могут быть интересны такие документы, касающиеся плана проекта:
+#Процесс реализации FreePe
 
 
-*** [Продвижение:](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)***
+**Последовательность разработки**
 
-   * [Бриф-сайт](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)
+**Ключевые исполнители:**
 
-   2. [Описательная презентация](https://drive.google.com/drive/folders/0B9mbBuJnN6tcU1BSb0FsQ09QS3M)
+**Богдан Фурса:** (скайп: b.nekras, емейл: freepe@protonmail.com, вконтакте);
 
-   3. [Пиар](https://docs.google.com/spreadsheets/d/1aL9fZSJ0ozQNsCxrQtZoEE7B2MJLuO0ZhQNQnw0H9V0/edit)
+**Дашкевич Данил:** (https://vk.com/dashkevich_danil, 89509888288, bizzz.ru@gmail.com)
 
-   4. [План запуска и развития FreePe](https://docs.google.com/spreadsheets/d/1KFvC2mrwqpSyrADgCuDlWN9wyLC4XjzRVVT-JqdCXOg/edit?usp=drive_web)
+1. ***Ядро:***
+  1. Разработка концепции; 
+  2. Формирование идеологии; 
+  3. Создание устава Сообщества; 
 
-   5. [Промо-кампания](https://docs.google.com/document/d/1-0VKrlSL1n-wIzEu850kpwqyzyBIlYziqAY7i89cJKU/edit?usp=drive_web)
+2. ***Продвижение:***
 
-   6. [Промо-сайт](https://docs.google.com/spreadsheets/d/1eqssQkY6am-Kh3MXrvuKYGyh7vxrAWR_c1TO8Y9u3nc/edit?usp=drive_web)
+  1. ** Подготовка:**
+     * Документация;
+     * Описание стратегии; 
+     * Формирование технического задания; 
+  
+  2. **Материалы:**
+    * Мокапы; 
+    * Структура сайта;
+    * Купить домен, хостинг: freepe.io на VPS;
+ 
+  3. **Формирование совместного рабочего процесса:** 
+    * Реалтаймбоард, Скайп, Слак, [Телеграм](https://telegram.me/joinchat/BlN3-kDHOu7PFiLeac1GnA), ВК;
+    * Трелло, Тимворк, Пинтаск, Битрикс;
 
-   7. [Страницы к описательному сайту](https://docs.google.com/document/d/1AneaBfdaqsETjBvdvsS1UagiDr8iFTeg0EvChDJoF6o/edit?usp=drive_web)
+  4. **Разработка:**
+    * *Интерфейс пользователя:*
+        1. Логотип, цвета, бренд; 
+        2. Дизайн страниц;
+        3. Верстка - перенести дизайн в реал;
+        4. DC- компонентная структура; 
 
-   8. [FreePe e-mail рассылка](https://docs.google.com/document/d/1O6Z8nDI6G3FlHrVCb_P_RusaYSaLK-GOaN09V4oi2d0/edit?usp=drive_web)
+    * *Основная логика:*
+        1. Установка окружения, настройка сервера; 
 
-   9. [FreePe IO ТЗ](https://docs.google.com/document/d/1zZZivjemA7UUW0g-g6cY0Bb1k45qtDnHTrDgrRfjZ5s/edit?usp=drive_web)
+    * *Схема базы данных:*
 
-   10. [FreePe promo рассылка](https://docs.google.com/document/d/1eDgm9qVTjiI0gFAKWd50j2zp8mn0tzS9DHJC7oh7HM8/edit?usp=drive_web)
+        1. Пользователь - имя, логин, емейл, пароль;
+        2. Создание скелета приложения, подключение базы данных;
 
-   11. [IPO](https://docs.google.com/spreadsheets/d/18kOAe5WlSwp84s3OSRXwh79oElds3t00YhoNiAOjjhQ/edit?usp=drive_web)
+    * *Реализация функций из ТЗ: *
+
+        1. Регистрация аккаунта - идентификация;+
+        2. Выстраивание реферальных связей;+
+        3. Уровневая система продвижения;+
+        4. Выпуск криптоактивов и финансовые операции;+
+        3. Обмен сообщениями;
+        4. Выпуск средств обмена;
+        5. Создание организации;
+        6. Проведение краудфандинга;
+
+   5. **Промо-кампания:**
+
+        * *Страницы/попапы:*
+          * условия реферальной системы, инвестирования и пользования сайтом;
+        * *Рассылка: *
+           * Приветственный емейл;
+            * Вступление;  
+            * Проект;
+            * Сотрудничество;
+            * Предложение;
+
+        * *Статьи:*
+          * Предыстория;
+          * Знакомство;
+
+        * *Презентации:*
+          * Вводная [презентация](https://www.youtube.com/watch?v=KNnJxonaQgE) проекта;
+          * Детальная [презентация](https://prezi.com/dhz0yujgcdhv/the-freepe-freedom-for-people/) с [текстом](https://docs.google.com/document/d/1TR1U4TuF8J8gGF4AVCv1JXmyThDdlmMbeh-XqwIW_18/edit) для конференций и форумов;
+  
+        * Создать и раскрутить страницы и группы проекта в соцсетях: http://fb.com/freepe.org, https://vk.com/freepe_org, http://instagram.com/freepe_org, https://twitter.com/freepe_org;
+
+        * [Собрать](https://goo.gl/forms/SbLROuEcv1MaGQ5E2) единомышленников,заинтересованных по команде приступить к запуску локомотива рефералов; 
+
+        * Взять полезные моменты: http://goo.gl/BY6C8j, http://goo.gl/GMXakp, http://goo.gl/2amrnx; 
+
+        * [Начать блог](http://freepe.online) и описывать события: что происходит вокруг, что мотивирует на создание проекта, общие впечатления, вести журнал разработки;
+
+  6. **Рост аудитории:**
+
+    * Запуск промо-сайта и выпуск 25000 FreePenny Promo на всю кампанию. Таким образом, в зависимости от привлечённых средств, будет установлена фиксированная цена FreePenny при запуске FreePe.Net;
+    * Все члены команды рассказывают о проекте своим друзьям, родственникам, хорошим знакомым, которые в свою очередь расскажут своим друзьям и тд;
+    * Создаем связи с популярными блогерами, владельцами тематических новостных/развлекательных вебсайтов с посещаемостью более 500 в сутки;
+    * Предлагаем объединение с тематическими сообществами, подобными проектами, стремящиеся к развитию;
+    * Пригласить добровольцев для живого примера с мотивирующим эффектом;
+    * Создание вирусных видео роликов проекта;
+    * Привлечение потребительских обществ;
+    * Сбор обратной связи - вложения/пользователи;
 
 
-*** [Обсуждения](https://drive.google.com/drive/folders/0B9biSVDYIz5yTmx2bUUwNEt0aEE)***
 
-   * [1 июля](https://docs.google.com/document/d/188RlLa40Hf3cqnhjBV2aSLtCF_DdXen6vW0GS0jAa-E/edit#heading=h.uu8jbs5kxjhl) 
-
-   2. [2 июля](https://docs.google.com/document/d/1Dz7qjxjHe6kOZwy2bEKIRoWI4i2If0O1Q8nTd_4jogA/edit)
-
-   2. [5 июля](https://docs.google.com/document/d/1xBXtFeN0wIOQSIhiaZNptq457fg_QcjmKJ_lQyHGB2I/edit)
-   
-   
-** [Контент](https://drive.google.com/drive/folders/0B9mbBuJnN6tcZW1MazdpdUJuRFk) **
-
-  - [Инструкция для ввода/вывода](https://docs.google.com/spreadsheets/d/1b0xJrlCCppIwiLrVvIXOZrEUUT8SlODPo4dw6t0DRK4/edit?usp=drive_web)
-  - [Сценарий вирусного ролика](https://docs.google.com/document/d/1vJKl1VZGFVpzy0ZXCU5FHqbG9mrKVtUnNXMdRRt6lAs/edit?usp=drive_web)
-  - [Статьи](https://drive.google.com/drive/folders/0B9mbBuJnN6tcT05vS2FBQzNIcWs) 
-  - [Freepe Передумови ](https://docs.google.com/document/d/1ntTl5_PAAbp4aCxPbfE1IpwiamuPrZuBk4s7RqkE4uA/edit?usp=drive_web)** [Контент](https://drive.google.com/drive/folders/0B9mbBuJnN6tcZW1MazdpdUJuRFk)**
    
 
 
