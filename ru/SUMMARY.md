@@ -79,7 +79,7 @@
                    * [О проекте](o_proekte1.md)
                    * [Предложение](predlozhenie11.md)
            * [TheFreePe Сom](thefreepecom_content.md)
-   * [Реализация](dop_materialu.md)
+   * [Материалы](dop_materialu.md)
        * [Ответы на вопросы](chasto_zadavaemie_voprosi.md)
        * [Процесс](protsess.md)
        * [Презентации проекта](prezentatsii_proekta.md)
