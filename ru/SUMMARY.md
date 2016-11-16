@@ -71,8 +71,6 @@
                * [Руководители предприятий](rukovoditeli_predpriyatii.md)
                * [Члены сообществ](chleni_soobschestv.md)
            * [Краудфандинг](crowdfunding.md)
-           * [Продвижение](promo-kampaniya.md)
-               * [Краудфандинг](crowdfunding.md)
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
