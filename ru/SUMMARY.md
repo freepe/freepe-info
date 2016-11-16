@@ -102,7 +102,7 @@
                * [О проекте](o_proekte1.md)
                * [Предложение](predlozhenie11.md)
        * [TheFreePe Сom](thefreepecom_content.md)
-   * [Дополнительные материалы](dop_materialu.md)
+   * [Материалы](dop_materialu.md)
        * [Презентации проекта](prezentatsii_proekta.md)
            * [Текст презентации](tekst_prezentatsii.md)
        * [Схемы](dopolnitelnie_materiali.md)
