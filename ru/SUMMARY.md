@@ -5,6 +5,7 @@
        * [Предисловие](predislovie.md)
    * [Процесс](protsess.md)
        * [Зарождение](zarogdenie.md)
+           * 1
        * [Продвижение](crowdfunding.md)
    * [Концепт](concept.md)
        * [Преимущества](preimuschestva.md)
@@ -51,9 +52,6 @@
                    * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                * [Страницы](stranitsi.md)
    * [Реализация](realizatsiya.md)
-       * [Процесс](protsess.md)
-           * [Зарождение](zarogdenie.md)
-           * [Продвижение](crowdfunding.md)
        * [FreePe Co](freepe_co.md)
        * [FreePe Info](freepe_info.md)
        * [FreePe IO](freepe_io.md)
