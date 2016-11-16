@@ -2,9 +2,9 @@
 
 * [Мир FreePe](README.md)
    * [Зарождение](zarogdenie.md)
-       * [Вступление](vstuplenie.md)
-           * [Предисловие](predislovie.md)
        * [Концепт](concept.md)
+           * [Вступление](vstuplenie.md)
+               * [Предисловие](predislovie.md)
            * [Преимущества](preimuschestva.md)
            * [Целевая аудитория](tselevaya_auditoriya.md)
            * [Основные сферы](osnovnie_sfera.md)
