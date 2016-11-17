@@ -76,7 +76,7 @@
                * [Предложение](predlozhenie11.md)
        * [FreePe Online](freepe_online.md)
            * [Вводная статья](vvodnaya_statya.md)
-       * [TheFreePe Сom](thefreepecom_content.md)
+       * [The FreePe Сompany](thefreepecom_content.md)
        * [Материалы](dop_materialu.md)
            * [Ответы на вопросы](chasto_zadavaemie_voprosi.md)
            * [Презентации проекта](prezentatsii_proekta.md)
