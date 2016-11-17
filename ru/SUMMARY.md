@@ -58,7 +58,7 @@
                * [Модель](model.md)
                    * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                * [Страницы](stranitsi.md)
-       * [FreePe Net](freepe_net.md)
+       * [FreePe Network](freepe_net.md)
        * [FreePe Org](freepe_org.md)
            * [Статут](statut.md)
                * [Загальні положення](zagaln_polozhennya.md)
