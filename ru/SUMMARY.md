@@ -44,7 +44,7 @@
            * [Юридическое оформление](yuridicheskoe_oformlenie.md)
            * [Заметки](zametki.md)
        * [FreePe Information](freepe_info.md)
-       * [FreePe IO](freepe_io.md)
+       * [FreePe I/O](freepe_io.md)
            * [Веб контент](web_content_io.md)
                * [Пользовательское соглашение](polzovatelskoe_soglashenie.md)
                * [Лендинг](lending-io.md)
