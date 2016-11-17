@@ -43,7 +43,6 @@
                * [Методы коммуникации](metodi_kommunikatsii.md)
                * [Юридическое оформление](yuridicheskoe_oformlenie.md)
                * [Заметки](zametki.md)
-           * 1
        * [FreePe Information](freepe_info.md)
        * [FreePe I/O](freepe_io.md)
            * [Веб контент](web_content_io.md)
