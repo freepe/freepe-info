@@ -60,7 +60,7 @@
                * [Страницы](stranitsi.md)
        * [FreePe Network](freepe_net.md)
        * [FreePe Organization](freepe_org.md)
-           * [Статут](statut.md)
+           * [Статут](https://goo.gl/IMNJ75)
                * [Загальні положення](zagaln_polozhennya.md)
                * [Мета, завдання, форми і методи діяльності об'єднання](meta,_zavdannya,_formi__metodi_lyalnost_obdnannya.md)
                * [Члени об'єднання, їх права та обов'язки](chleni_obdnannya,_x_prava__obovyazki.md)
