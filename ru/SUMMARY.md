@@ -59,7 +59,7 @@
                    * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                * [Страницы](stranitsi.md)
        * [FreePe Network](freepe_net.md)
-       * [FreePe Org](freepe_org.md)
+       * [FreePe Organization](freepe_org.md)
            * [Статут](statut.md)
                * [Загальні положення](zagaln_polozhennya.md)
                * [Мета, завдання, форми і методи діяльності об'єднання](meta,_zavdannya,_formi__metodi_lyalnost_obdnannya.md)
