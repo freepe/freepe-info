@@ -52,7 +52,7 @@
                * [Приветствие](privetstvie-io.md)
                * [Кошелёк](koshelyok-io.md)
                * [Дашбоард](dashboard_io.md)
-           * [Технический пасспорт](etap_1.md)
+           * [Техническое задание](etap_1.md)
                * [Логика работы](logika_raboti.md)
                * [Группы пользователей](gruppi_polzovatelei.md)
                * [Модель](model.md)
