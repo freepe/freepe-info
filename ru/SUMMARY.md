@@ -1,6 +1,6 @@
 # Summary
 
-* [Мир FreePe](README.md)
+* [FreePe](README.md)
    * [Зарождение](zarogdenie.md)
        * [Идеология FreePe](ideologiya_freepe.md)
            * [Структура](struktura.md)
