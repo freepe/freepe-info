@@ -58,7 +58,6 @@
                * [Модель](model.md)
                    * [Ввод/Вывод средств](vvodvivod_sredstv.md)
                * [Страницы](stranitsi.md)
-           * [Технический паспорт](tehnicheskii_pasport.md)
        * [FreePe Net](freepe_net.md)
        * [FreePe Org](freepe_org.md)
            * [Статут](statut.md)
