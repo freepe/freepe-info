@@ -30,7 +30,7 @@
            * [Стратегия и реализация](strategiya_i_realizatsiya.md)
                * [Процесс](protsess.md)
    * [Продвижение](crowdfunding.md)
-       * [FreePe Co](freepe_co.md)
+       * [FreePe Community](freepe_co.md)
        * [Устав сообщества](etap_2-_freepe_co_ustav.md)
            * [Введение](vvedenie.md)
            * [Цели](tseli1.md)
