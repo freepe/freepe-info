@@ -37,7 +37,7 @@
                    * [Страницы](stranitsi.md)
    * [Продвижение](crowdfunding.md)
        * [FreePe Co](freepe_co.md)
-       * [1. Ядро](etap_2-_freepe_co_ustav.md)
+       * [Устав сообщества](etap_2-_freepe_co_ustav.md)
            * [Введение](vvedenie.md)
            * [Цели](tseli1.md)
            * [Деятельность](deyatelnost1.md)
