@@ -31,6 +31,7 @@
                * [Процесс](protsess.md)
    * [Продвижение](crowdfunding.md)
        * [FreePe Community](freepe_co.md)
+           * 1
        * [Устав сообщества](etap_2-_freepe_co_ustav.md)
            * [Введение](vvedenie.md)
            * [Цели](tseli1.md)
