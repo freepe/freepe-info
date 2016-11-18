@@ -63,8 +63,8 @@
            * [Лендинг](lending.md)
            * [Сотрудничество](rukovodstvo_dlya_uchastnikov.md)
            * [О проекте](o_proekte1.md)
-           * [Предложение](predlozhenie11.md)
            * [Содержимое веб-сайта](org_content.md)
+               * [Предложение](predlozhenie11.md)
                * 1
        * [FreePe Online](freepe_online.md)
        * [FreePe Сompany](thefreepecom_content.md)
