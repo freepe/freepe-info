@@ -66,6 +66,7 @@
                * [Предложение](predlozhenie11.md)
                * [Сотрудничество](rukovodstvo_dlya_uchastnikov.md)
                * 1
+               * Страницы сайта
        * [FreePe Online](freepe_online.md)
        * [FreePe Сompany](thefreepecom_content.md)
        * [Материалы](dop_materialu.md)
