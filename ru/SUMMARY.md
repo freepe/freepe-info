@@ -60,7 +60,7 @@
                * [Страницы](stranitsi.md)
        * [FreePe Network](freepe_net.md)
        * [FreePe Organization](freepe_org.md)
-           * [Содержимое веб-сайта](org_content.md)
+           * [Страницы сайта](org_content.md)
                * [Лендинг](lending.md)
                * [О проекте](o_proekte1.md)
                * [Предложение](predlozhenie11.md)
