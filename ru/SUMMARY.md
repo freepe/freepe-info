@@ -64,7 +64,7 @@
            * [Сотрудничество](rukovodstvo_dlya_uchastnikov.md)
            * [О проекте](o_proekte1.md)
            * [Предложение](predlozhenie11.md)
-           * Содержимое
+           * [Содержимое](org_content.md)
        * [FreePe Online](freepe_online.md)
        * [FreePe Сompany](thefreepecom_content.md)
        * [Материалы](dop_materialu.md)
