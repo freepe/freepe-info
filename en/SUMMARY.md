@@ -1,6 +1,6 @@
 # Summary
 
-* [FreePe world](README.md)
+* [FreePe](README.md)
    * [FreePe Co](freepe_co.md)
    * [FreePe Info](freepe_info.md)
        * [Web content](web_content_info.md)
