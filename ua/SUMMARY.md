@@ -57,4 +57,5 @@
                * [Презентації](prezentatsiyi.md)
                    * [Текст презентації другої](tekst_prezentatsii.md)
            * [Приклади використання](prikladi_vikoristannya.md)
+   * Етап 2. Розповсюдження
 
