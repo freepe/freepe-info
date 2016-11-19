@@ -1,8 +1,8 @@
 # Summary
 
 * [FreePe](README.md)
-   * [Введення](etap_0_dentifkatsya.md)
    * Етап 1. Формування
+       * [Введення](etap_0_dentifkatsya.md)
        * [Ідеологія](ideologya.md)
            * [Структура](struktura.md)
            * [Довіра](dovіra.md)
