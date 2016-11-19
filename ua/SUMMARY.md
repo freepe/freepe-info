@@ -2,7 +2,6 @@
 
 * [FreePe](README.md)
    * [Етап 1. Формування](etap_1_formuvannya.md)
-       * [Введення](etap_0_dentifkatsya.md)
        * [Ідеологія](ideologya.md)
            * [Структура](struktura.md)
            * [Довіра](dovіra.md)
