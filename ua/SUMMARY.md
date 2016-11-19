@@ -1,6 +1,6 @@
 # Summary
 
-* [Світ FreePe](README.md)
+* [FreePe](README.md)
    * [Етап 0. Ідентифікація](etap_0_dentifkatsya.md)
    * Етап 1. Формування
        * [Ідеологія](ideologya.md)
