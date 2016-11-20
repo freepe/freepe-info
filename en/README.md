@@ -13,10 +13,10 @@
 
 | **Social Networks** | **FreePe web** | **Messengers** |
 | --- | --- |
-| [Instagram](https://www.instagram.com/thefreepe/) | <p class="freepe_endpoint"></p> ![](../images/worldwide.png)  [FreePe.Org](http://freepe.org/) | [Telegram](https://telegram.me/FreePe) |
+| [Instagram](https://www.instagram.com/thefreepe/) | ![](../images/worldwide.png)  [FreePe.Org](http://freepe.org/) | [Telegram](https://telegram.me/FreePe) |
 | [Twitter](https://twitter.com/_freepe) |![](../images/piggy-bank.png) [FreePe.IO](http://freepe.io/) | [Slack](https://freepe.slack.com/messages/@freepe/) |
 | [Vkontakte]( https://vk.com/freepe_org) | ![](../images/networking.png) [FreePe.Co](http://freepe.co/) | [Appear](https://appear.in/freepe) |
-| [Facebook](https://www.facebook.com/FreePe-project-1705439936387017/)  | ![](../images/computer.png) [FreePe.Online](freepe.online) | [Mexy](http://temp.mexy.pro/#freepe) |
+| [Facebook](https://www.facebook.com/FreePe-project-1705439936387017/)  | ![](../images/computer.png) [FreePe.Online](http://freepe.online) | [Mexy](http://temp.mexy.pro/#freepe) |
 | [Google +](https://plus.google.com/106815883580854777966)  | ![](../images/ellipse.png) [FreePe.Net](http://freepe.net/) |  |
 
 
