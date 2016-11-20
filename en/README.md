@@ -30,7 +30,7 @@
 
 > [Intro presentation](https://goo.gl/bxv33W)
 
-> [Detailed presentation](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
+> [Detailed presentation](https://prezi.com/iu-d9iie6vcg/freepe-free-peace-for-free-people)
 
 > [Developing process](https://pintask.me/board/vPsfuf2sawcaDyt6b) 
 
