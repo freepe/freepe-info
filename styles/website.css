@@ -1,4 +1,7 @@
 /* CSS for website */
+html, body {
+  overflow: hidden;
+}
 .freepe_endpoint + img {
   width: 25px !important;
 }
