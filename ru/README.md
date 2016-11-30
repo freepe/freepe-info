@@ -45,6 +45,6 @@ FreePe хочет подарить людям полную свободу в п�
  
 > [Средняя минимальная зарплата](https://docs.google.com/spreadsheets/d/1qJUdpg92HsaAt8gsHROI2laoGqZe-Heo2fxZcWoDVgY/edit?usp=drive_web)
 
-> [FreePenny стоимость]( https://docs.google.com/spreadsheets/d/15qjeMWLIXKBcD7hW5LufVvJnaPi1_A1x69Iu8WOBMTw/edit?usp=sharing)
+
 
 
