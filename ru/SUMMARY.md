@@ -15,7 +15,7 @@
                * [Ресурсы](resursi1.md)
                * [Возможности](vozmozhnosti.md)
            * [FreePe бюджет](obschii_byudzhet.md)
-               * [Генерация](generatsiya.md)
+               * [FreePenny](generatsiya.md)
                * [Donation пользователями](donation_polzovatelyami.md)
                * [Деятельность](deyatelnost.md)
            * [Примеры использования](primeri_ispolzovaniya.md)
