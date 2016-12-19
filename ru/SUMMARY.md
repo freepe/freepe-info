@@ -1,7 +1,7 @@
 # Summary
 
 * [FreePe](README.md)
-    * [Зарождение](ru/zarogdenie.md)
+    * [Зарождение](ru/precondition.md)
         * [Идеология FreePe](ideologiya_freepe.md)
             * [Структура](struktura.md)
             * [Доверие](doverie.md)
