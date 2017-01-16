@@ -1,6 +1,7 @@
 # Summary
 
 * [FreePe](README.md)
+    <!--- 
     * [Зарождение](precondition.md)
         * [Идеология FreePe](ideologiya_freepe.md)
             * [Структура](struktura.md)
@@ -122,4 +123,4 @@
                 * [Правила и условия](pravila_i_usloviya.md)
                 * [Соглашения](soglasheniya.md)
                 * [Реферальная программа](referalnaya_programma.md)
-
+--->
