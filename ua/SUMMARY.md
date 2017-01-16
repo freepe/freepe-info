@@ -1,7 +1,8 @@
 # Summary
 
 * [FreePe](README.md)
-   * [Етап 1. Формування](etap_1_formuvannya.md)
+  <!---
+  * [Етап 1. Формування](etap_1_formuvannya.md)
        * [Ідеологія](ideologya.md)
            * [Структура](struktura.md)
            * [Довіра](dovіra.md)
@@ -58,4 +59,5 @@
                    * [Текст презентації другої](tekst_prezentatsii.md)
            * [Приклади використання](prikladi_vikoristannya.md)
    * [Етап 2. Розповсюдження](etap_2_rozpovsyudzhennya.md)
+   --->
 
