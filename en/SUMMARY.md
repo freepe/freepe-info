@@ -1,6 +1,7 @@
 # Summary
 
 * [FreePe](README.md)
+<!---
    * [FreePe Co](freepe_co.md)
    * [FreePe Info](freepe_info.md)
        * [Web content](web_content_info.md)
@@ -27,4 +28,4 @@
    * [Realization](realization.md)
        * Process
            * [Promo campaign](promo_campaign.md)
-
+--->
