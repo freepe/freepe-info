@@ -57,7 +57,7 @@
 Ниже представлены ссылки на аккаунты и сайты проекта на различных платформах, а также материалы, относящиеся к процессу разработки.
 
 
-| **Социальные сети** | **FreePe порталы** | **Мессенджеры** |
+| **Социальные сети** | **ФриПе порталы** | **Мессенджеры** |
 | --- | --- |
 | [Facebook](https://www.facebook.com/FreePe-project-1705439936387017/)  | ![](../images/networking.png) [Сообщество](http://freepe.co/) | [Appear](https://appear.in/freepe) |
 | [Google +](https://plus.google.com/106815883580854777966)  | ![](../images/computer.png) [Блог](http://freepe.online)| [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
