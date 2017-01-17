@@ -87,6 +87,10 @@
 
 > [Потенциальные партнеры](https://docs.google.com/spreadsheets/d/1CEjAu35q0bsh9CmuZq7L7WeW8r54ApLZhDELFaAUGcE/edit?usp=drive_web)
 
+> [Устав Общественной Организации ФриПе Фундация](https://goo.gl/02pBT0)
+
+
+
 
 
 
