@@ -1,8 +1,7 @@
 # Summary
 
 * [FreePe](README.md)
-    <!--- 
-    * [Зарождение](precondition.md) --->
+
     * [Концепт](concept.md)
         * [Целевая аудитория](tselevaya_auditoriya.md)
         * [Основные сферы](osnovnie_sfera.md)
@@ -30,7 +29,8 @@
         * [Стратегия и тактика](strategiya_i_taktika.md)
             * [Процесс](protsess.md)
             * [Продвижение](crowdfunding.md)
-        <!---
+    <!--- 
+    * [Зарождение](precondition.md) 
         * [FreePe Community](freepe_co.md)
             * [Устав сообщества](etap_2-_freepe_co_ustav.md)
                 * [Введение](vvedenie.md)
