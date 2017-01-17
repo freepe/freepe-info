@@ -77,6 +77,8 @@
 
 > [Подробная презентация](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
 
+> [Техническое задание](https://goo.gl/SfUWTv)
+
 > [Процесс разработки](https://pintask.me/board/vPsfuf2sawcaDyt6b) 
 
 > [Отчет по работе](https://goo.gl/ArDg5z)
