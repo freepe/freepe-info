@@ -14,10 +14,10 @@
 | **Social channel** | **FreePe portal** | **Communication** |
 | --- | --- |
 | [Facebook](https://www.facebook.com/FreePe-project-1705439936387017/)  | ![](../images/networking.png) [Community forum](http://freepe.co/) | [Appear](https://appear.in/freepe) |
-| [Google +](https://plus.google.com/106815883580854777966)  |![](../images/piggy-bank.png) [Universal web-platform](https://freepe.io/) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
-| [Instagram](https://www.instagram.com/thefreepe/) | ![](../images/ellipse.png) [Decentralized autonomous network](http://freepe.net/) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
-| [Twitter](https://twitter.com/_freepe) |![](../images/computer.png) [Blog with news and updates](http://freepe.online) | [Slack](https://freepe.slack.com/messages/@freepe/) |
-| [Vkontakte]( https://vk.com/freepe_org) | ![](../images/worldwide.png)  [Project and Foundation](http://freepe.org/) | [Telegram](https://telegram.me/FreePe) |
+| [Google +](https://plus.google.com/106815883580854777966)  | ![](../images/computer.png) [Blog with news and updates](http://freepe.club)  | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
+| [Instagram](https://www.instagram.com/thefreepe/) | | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
+| [Twitter](https://twitter.com/_freepe) | | [Slack](https://freepe.slack.com/messages/@freepe/) |
+| [Vkontakte]( https://vk.com/freepe_org) | | [Telegram](https://telegram.me/FreePe) |
 
 
 
