@@ -8,7 +8,7 @@
     "pluginsConfig": {
         "favicon": {
             "shortcut": "images/favicon.ico",
-            "bookmark": "images/favicon.ico",
+            "bookmark": "images/favicon.ico"
         }
     }
 }
