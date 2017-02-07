@@ -3,12 +3,9 @@
         "collapsible-menu",
         "youtube",
         "responsive-iframes",
-        "favicon"
+        "custom-favicon"
     ],
     "pluginsConfig": {
-        "favicon": {
-            "shortcut": "images/favicon.ico",
-            "bookmark": "images/favicon.ico"
-        }
+        "favicon": "images/favicon.ico"
     }
 }
