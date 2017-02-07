@@ -10,9 +10,9 @@
 | :---: | :---: | :---: |
 | [Facebook](https://fb.com/freepe.org) | ![](../images/networking.png) [Форум](http://freepe.co/) | [Appear](https://appear.in/freepe) |
 | [Google +](https://plus.google.com/106815883580854777966) | ![](../images/computer.png) [Блог](http://freepe.online) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
-| [Instagram](https://www.instagram.com/freepe_org/) | ![](/images/worldwide.png) [Організація](https://freepe.org) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
-| [Twitter](https://twitter.com/freepe_org) | ![](/images/ellipse.png) [Мережа](http://freepe.net) | [Slack](https://freepe.slack.com/messages/@freepe/) |
-| [Vkontakte](https://vk.com/freepe_org) | ![](/images/piggy-bank.png)[Кооператив](https://freepe.co) | [Telegram](https://telegram.me/FreePe) |
+| [Instagram](https://www.instagram.com/freepe_org/) | ![Organization](../images/worldwide.png) [Організація](https://freepe.org) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
+| [Twitter](https://twitter.com/freepe_org) | ![Network](../images/ellipse.png) [Мережа](http://freepe.net) | [Slack](https://freepe.slack.com/messages/@freepe/) |
+| [Vkontakte](https://vk.com/freepe_org) | ![Cooperative](../images/piggy-bank.png)[Кооператив](https://freepe.co) | [Telegram](https://telegram.me/FreePe) |
 
 ---
 
