@@ -2,7 +2,13 @@
     "plugins": [
         "collapsible-menu",
         "youtube",
-        "responsive-iframes"
+        "responsive-iframes",
+        "favicon"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "favicon": {
+            "shortcut": "images/favicon.ico",
+            "bookmark": "images/favicon.ico",
+        }
+    }
 }
