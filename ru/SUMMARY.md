@@ -22,7 +22,6 @@
     * [Решение разногласий](reshenie_raznoglasii.md)
   * [План](plan.md)
     * [Об организации](o_kompanii.md)
-    * [Цели](tseli.md)
     * [Реализация](realizatsiya.md)
     * [Краткое описание рынка](kratkoe_opisanie_rinka.md)
     * [Стратегия и тактика](strategiya_i_taktika.md)
