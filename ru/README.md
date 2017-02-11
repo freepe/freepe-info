@@ -1,10 +1,10 @@
 ![](../images/Banner_2.jpg)
 
-# ФриПе приветствует Вас!
+# Добро пожаловать в мир ФриПе!
 
 ФриПе хочет подарить людям полную свободу в полном смысле слова - свобода выбора жизненного пути, свобода на своё мнение, свобода работать и жить в своё удовольствие.
 
-Ниже представлены ссылки на аккаунты и сайты проекта на различных платформах, а также материалы, относящиеся к процессу разработки.
+Ниже представлены ссылки на аккаунты и сайты проекта на различных платформах, а также полезные материалы. Приятного исследования!
 
 | **Социальные сети** | **ФриПе порталы** | **Мессенджеры** |
 | :---: | :---: | :---: |
@@ -14,13 +14,17 @@
 | [Twitter](https://twitter.com/freepe_org) | ![Network](../images/ellipse.png) [Сеть](http://freepe.net) | [Slack](https://freepe.slack.com/messages/@freepe/) |
 | [Vkontakte](https://vk.com/freepe_org) | ![Cooperative](../images/piggy-bank.png) [Кооператив](https://freepe.co) | [Telegram](https://telegram.me/FreePe) |
 
+---
+
 **Полезные ссылки:**
 
-> [Вводная презентация](https://goo.gl/bxv33W)
->
 > [Пасспорт проекта](https://docs.google.com/document/d/1GnrxdCtFMjPPS1eUxlDGbqEqOFm0PIk5tMNXN7Pmj38/edit?usp=sharing)
 >
+> [Вводная презентация](https://goo.gl/bxv33W)
+>
 > [Подробная презентация](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
+>
+> [Конкретная презентация](https://prezi.com/zyme4t6wrktm/presentation/)
 >
 > [Техническое задание](https://goo.gl/SfUWTv)
 >
