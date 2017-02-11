@@ -1,10 +1,10 @@
-# Welcome to FreePe world
-
 ![](../images/Banner_2.jpg)
 
----
+# Welcome to FreePe world!
 
-**Below are located links to our groups in social networks and project portals as well as useful materials. Happy exploration! **
+FreePe wants to give people complete freedom in the fullest sense - the freedom to choose their way of life to the freedom of opinion, freedom to work and live in their pleasure.
+
+Below are located links to our groups in social networks and project portals as well as useful materials. Happy exploration!
 
 | **Social channel** | **FreePe portal** | **Communication** |
 | :---: | :---: | :---: |
@@ -16,15 +16,17 @@
 
 ---
 
-**Useful materials:**
+**Useful links:**
 
 > [Intro presentation](https://goo.gl/bxv33W)
 >
 > [Detailed presentation](https://prezi.com/iu-d9iie6vcg/freepe-free-peace-for-free-people)
 >
+> [Concrete presentation](https://prezi.com/wjgpfdrv-lqt/freepe-decentralized-socio-economic-network/)
+>
 > [Developing process](https://pintask.me/board/vPsfuf2sawcaDyt6b)
 >
-> [Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU) \(pictures, drafts, schemes and other\)
+> [All materials on Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU)
 >
 > [Report](https://goo.gl/ArDg5z)  - Project stage realization progress and contributor accounting.
 
