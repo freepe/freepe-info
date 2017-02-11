@@ -1,6 +1,6 @@
 # Summary
 
-* [FreePe](README.md)
+* [Проект ФриПе](README.md)
   * [Концепт](concept.md)
     * [Целевая аудитория](tselevaya_auditoriya.md)
     * [Основные сферы](osnovnie_sfera.md)
@@ -8,8 +8,8 @@
       * [Знания](znaniya.md)
       * [Ресурсы](resursi1.md)
       * [Возможности](vozmozhnosti.md)
-    * [FreePe бюджет](obschii_byudzhet.md)
-      * [FreePenny](generatsiya.md)
+    * [Общий бюджет](obschii_byudzhet.md)
+      * [Генерация FreePenny](generatsiya.md)
       * [Donation пользователями](donation_polzovatelyami.md)
       * [Деятельность](deyatelnost.md)
     * [Примеры использования](primeri_ispolzovaniya.md)
