@@ -1,10 +1,8 @@
 # FreePe - the beginning of a new life for everyone
 
-Modern payment system - an imperfect mechanism of calculation, depending on the will of senior officials. The concept of our project is to 
-create a virtual space for interaction and cooperation in the Internet and beyond using peer to peer (p2p) FreeChain technology. This
-technology will give people opportunities quantum space civilization - total spectrum of human possibilities, using the talents, skills, 
-capabilities and resources of the planet, allowing you to analyze the probable events and calculate the most appropriate action to meet 
-the challenges of all sizes and areas.
+The current global economic system is more and frequently demonstrates it's inconsistency and inability to cope with the challenges that are demanded by society and required by nature. We propose to consider as an alternative the project for free people "FreePe".
+
+The concept of our project is to create a virtual space for interaction and cooperation on the Internet and beyond using peer to peer (p2p) FreeChain technology. This technology will give people opportunities quantum space civilization - total spectrum of human possibilities, using the talents, skills, capabilities and resources of the planet, allowing you to analyze the probable events and calculate the most appropriate action to meet the challenges of all sizes and areas.
 
 **The purpose FreePe** is to unite people around the world to exchange information, services and resources, using reliable and reasonable equivalent
 value that can be converted into any of fiatnyh currencies. Each of the participants of the platform, with access to the network and basic 
