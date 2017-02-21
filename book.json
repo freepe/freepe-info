@@ -3,7 +3,8 @@
         "collapsible-menu",
         "youtube",
         "responsive-iframes",
-        "custom-favicon"
+        "custom-favicon",
+        "mathjax"
     ],
     "pluginsConfig": {
         "favicon": "images/favicon.ico"
