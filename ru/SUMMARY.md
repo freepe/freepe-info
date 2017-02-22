@@ -10,7 +10,7 @@
       * [Возможности](vozmozhnosti.md)
     * [Общий бюджет](obschii_byudzhet.md)
       * [Генерация FreePenny](generatsiya.md)
-      * [Donation пользователями](donation_polzovatelyami.md)
+      * [Пожертвования](donation_polzovatelyami.md)
       * [Деятельность](deyatelnost.md)
     * [Примеры использования](primeri_ispolzovaniya.md)
       * [Пример 1](primer_1.md)
