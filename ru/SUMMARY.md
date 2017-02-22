@@ -3,7 +3,7 @@
 * [Проект ФриПе](README.md)
   * [Концепт](concept.md)
     * [Целевая аудитория](tselevaya_auditoriya.md)
-    * [Основные сферы](osnovnie_sfera.md)
+    * [Основные компоненты](osnovnie_sfera.md)
       * [Люди](lyudi.md)
       * [Знания](znaniya.md)
       * [Ресурсы](resursi1.md)
