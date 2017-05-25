@@ -20,11 +20,13 @@
 
 > [Пасспорт проекта](https://docs.google.com/document/d/1GnrxdCtFMjPPS1eUxlDGbqEqOFm0PIk5tMNXN7Pmj38/edit?usp=sharing)
 >
-> [Вводная презентация](https://goo.gl/bxv33W)
+> [Вводная презентация](https://youtu.be/ao63o5Y4LgY)
 >
 > [Подробная презентация](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
 >
 > [Конкретная презентация](https://prezi.com/zyme4t6wrktm/presentation/)
+>
+> [Белая бумага](https://docs.google.com/document/d/1z81QigtiwZaxqSOd2fXcrU4tasM12n_XrXt3zRybppU/edit?usp=sharing)
 >
 > [Техническое задание](https://goo.gl/SfUWTv)
 >
