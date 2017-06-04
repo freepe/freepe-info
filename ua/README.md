@@ -8,17 +8,17 @@
 
 | **Соціальні мережи** | **ФріПе портали** | **Месенджери** |
 | :---: | :---: | :---: |
-| [Facebook](https://fb.com/freepe.org) | ![](../images/networking.png) [Форум](http://freepe.co/) | [Appear](https://appear.in/freepe) |
-| [Google +](https://plus.google.com/106815883580854777966) | ![](../images/computer.png) [Блог](http://freepe.online) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
-| [Twitter](https://twitter.com/freepe_org) | ![Organization](../images/worldwide.png) [Організація](https://freepe.org) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
-| [Vkontakte](https://vk.com/freepe_org) | ![Network](../images/ellipse.png) [Мережа](http://freepe.net) | [Slack](https://freepe.slack.com/messages/@freepe/) |
+| [Facebook](https://fb.com/freepe.org) | ![](../images/networking.png) [Форум](http://forum.freepe.org) | [Appear](https://appear.in/freepe) |
+| [Google +](https://plus.google.com/106815883580854777966) | ![](../images/computer.png) [Блог](http://blog.freepe.org) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
+| [Twitter](https://twitter.com/freepe_org) | ![Organization](../images/worldwide.png) [Організація](http://freepe.org) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
+| [Vkontakte](https://vk.com/freepe_org) | ![Network](../images/ellipse.png) [Мережа](http://freepe.net) | [Slack](https://slackpass.io/freepe) |
 | [Youtube](https://www.youtube.com/channel/UCPpxpzHdDbYDzxrWbgSUHzQ) | ![Cooperative](../images/piggy-bank.png)[Кооператив](https://freepe.co) | [Telegram](https://telegram.me/FreePe) |
 
 ---
 
 **Корисні посилання:**
 
-> [Вступна презентація](https://goo.gl/bxv33W)
+> [Вступна презентація](https://youtu.be/ao63o5Y4LgY)
 >
 > [Детальна презентація](https://prezi.com/dhz0yujgcdhv/freepe-freedom-4-people/)
 >
@@ -26,11 +26,13 @@
 >
 > [Процесс розробки](https://pintask.me/board/vPsfuf2sawcaDyt6b)
 >
-> [Всі матеріали на Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU)
->
 > [Звіт](https://goo.gl/ArDg5z)  - Прогрес реалізації етапів проекту та облік вкладів участників.
 >
 > [Статут громадської організації "ФріПе Фундація"](https://goo.gl/02pBT0)
+>
+> [Всі матеріали на Google Drive](https://www.gitbook.com/book/freepe/information/edit#)
+
+
 
 
 

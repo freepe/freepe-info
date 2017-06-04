@@ -11,7 +11,7 @@
 | [Facebook](https://fb.com/freepe.org) | ![](../images/networking.png) [Форум](http://forum.freepe.org) | [Appear](https://appear.in/freepe) |
 | [Google +](https://plus.google.com/106815883580854777966) | ![](../images/computer.png) [Блог](http://blog.freepe.org) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
 | [Twitter](https://twitter.com/freepe_org) | ![Organization](../images/worldwide.png) [Организация](https://freepe.org) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
-| [Vkontakte](https://vk.com/freepe_org) | ![Network](../images/ellipse.png) [Сеть](http://freepe.net) | [Slack](https://freepe.slack.com/messages/@freepe/) |
+| [Vkontakte](https://vk.com/freepe_org) | ![Network](../images/ellipse.png) [Сеть](http://freepe.net) | [Slack](https://slackpass.io/freepe) |
 | [Youtube](https://www.youtube.com/channel/UCPpxpzHdDbYDzxrWbgSUHzQ) | ![Cooperative](../images/piggy-bank.png) [Кооператив](https://freepe.co) | [Telegram](https://telegram.me/FreePe) |
 
 ---
@@ -34,11 +34,11 @@
 >
 > [Отчет по работе](https://goo.gl/ArDg5z)
 >
-> [Все материалы на Google Drive](https://drive.google.com/open?id=0B9mbBuJnN6tcdS1VSFQ5dEhOdkU)
->
-> [Потенциальные партнеры](https://docs.google.com/spreadsheets/d/1CEjAu35q0bsh9CmuZq7L7WeW8r54ApLZhDELFaAUGcE/edit?usp=drive_web)
->
 > [Устав Общественной Организации ФриПе Фундация](https://goo.gl/02pBT0)
+>
+> [Все материалы на Google Drive](https://www.gitbook.com/book/freepe/information/edit#)
+
+
 
 
 

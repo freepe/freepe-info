@@ -10,8 +10,8 @@ Below are located links to our groups in social networks and project portals as 
 | :---: | :---: | :---: |
 | [Facebook](https://fb.com/freepe.org) | ![](../images/networking.png) [Forum](http://forum.freepe.org) | [Appear](https://appear.in/freepe) |
 | [Google +](https://plus.google.com/+FreePeOrg) | ![](../images/computer.png) [Blog](http://blog.freepe.org) | [Hangouts](https://hangouts.google.com/group/i8VCXO4OI49sQNo12) |
-| [Youtube](https://www.youtube.com/channel/UCPpxpzHdDbYDzxrWbgSUHzQ) | ![Organization](../images/worldwide.png) [Organization](https://freepe.org) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
-| [Vkontakte](https://vk.com/freepe_org) | ![Network](../images/ellipse.png) [Network](http://freepe.net) | [FreePe Chat](http://chat.freepe.org) |
+| [Youtube](https://www.youtube.com/channel/UCPpxpzHdDbYDzxrWbgSUHzQ) | ![Organization](../images/worldwide.png) [Organization](http://freepe.org) | [Skype](https://join.skype.com/jQDP4cDrLKtf) |
+| [Vkontakte](https://vk.com/freepe_org) | ![Network](../images/ellipse.png) [Network](http://freepe.net) | [Slack](https://slackpass.io/freepe) |
 | [Twitter](https://twitter.com/freepe_org) | ![Cooperative](../images/piggy-bank.png)[Cooperative](https://freepe.co) | [Telegram](https://telegram.me/FreePe) |
 
 ---
